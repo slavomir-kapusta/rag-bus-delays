@@ -1,18 +1,11 @@
 
-========================================
+# Bus Delays in Prague public city traffic - in Czech
 
-Bus Delays in Prague public city traffic - in Czech
+### EMBEDDING MODEL:  paraphrase-multilingual-MiniLM-L12-v2
 
-========================================
-
-
-EMBEDDING MODEL:  paraphrase-multilingual-MiniLM-L12-v2
-
-chromaStats.py
-
-		  STATISTIKA CHROMADB EMBEDDINGS
+## CHROMADB EMBEDDINGS
+chromaStats.py:
 BertModel LOAD REPORT from: C:\AI\models\paraphrase-multilingual-MiniLM-L12-v2
-
 Notes:
 - UNEXPECTED    :can be ignored when loading from different task/architecture; not ok if you expect identical arch.
 
@@ -34,17 +27,9 @@ Notes:
     Nejlepší shoda (dist):0.4402
     Počet vrácených:      10
 
-===========================================================
-# Golemio Incremental Bus Delay Fetcher (`golemioIncr.py`)
-
-A Python script designed to incrementally fetch real-time public transit data from the [Golemio API](https://golemio.cz/) 
-(Prague Integrated Transport). It specifically monitors bus lines (numbered 100-999), filters for vehicles delayed by 10 minutes or more, 
-and exports the data into a JSON format optimized for vector databases like **ChromaDB**.
-
-
 ==================================================
 
-SOURCE FILE ---   DELAY JSON: 
+### SOURCE FILE ---   DELAY JSON: 
 
 [
   {
@@ -72,32 +57,7 @@ SOURCE FILE ---   DELAY JSON:
     }
   },
 
-CHROMA DB
-
-[1] POČET ZÁZNAMŮ
-    Celkem vektorů v DB:  11
-
-[2] VLASTNOSTI VEKTORŮ (EMBEDDINGS)
-    Dimenze modelu:       384 čísel na jeden vektor
-    Velikost 1 vektoru:   1536 bytů (raw float32)
-    Teoretická RAM data:  16.50 KB (pouze vektory)
-
-[3] VELIKOST NA DISKU
-    Složka 'chroma_db':   3.98 MB
-    (Obsahuje: indexy, metadata, texty a režii DB)
-
-[4] ANALÝZA QUERY (Hledání)
-    Dotaz:                'zpoždění autobusů'
-    Doba vyhledávání:     0.0714 sekundgolemioIncr
-    Nejlepší shoda (dist):0.4453
-    Počet vrácených:      10
-
-RETRIEVE
-
-golemioIncr.py
-
-
-PROMPT TEMPLATES
+### PROMPT TEMPLATES
 
 >>> DOTAZ: 'Jaké měla zpoždění linka 348 dne 15.2. ?'
 ✅ NALEZENO 1 záznamů:
@@ -128,7 +88,7 @@ Nenalezeny zpoždění linky 128 pro den 15.02.2026
 A Python script designed to incrementally fetch real-time public transit data from the [Golemio API](https://golemio.cz/) 
 (Prague Integrated Transport). It specifically monitors bus lines (numbered 100-999), filters for vehicles delayed by 10 minutes or more, 
 and exports the data into a JSON format optimized for vector databases like **ChromaDB**.
----------------------
+
 
 ## 🚀 Key Features
 * **Incremental Updates:** 
@@ -175,35 +135,8 @@ If new data is found, it saves a new JSON file in the data/ folder named by the 
 🗂️ Output Data Structure
 The generated JSON files contain an array of objects structured specifically for RAG (Retrieval-Augmented Generation) applications.
 
-Example Record:
-JSON
-[
-  {
-    "id": "20260303_172256_L182",
-    "document": "Dne 03.03.2026 měla linka 182 6 zpoždění 11 minut u zastávky U677Z1P (směr Opatov). Příčina: --- ",
-    "metadata": {
-      "den": "03.03.2026",
-      "linka": 182,
-      "zpozdeni": 11,
-      "zastavka": "U677Z1P",
-      "lat": 50.05718,
-      "lon": 14.53642,
-      "smer": "Opatov",
-      "kategorie": "provoz",
-      "pricina": "--- ",
-      "prijezd": "17:12:00",
-      "zpozdeni_00_06": 0,
-      "zpozdeni_06_09": 0,
-      "zpozdeni_09_12": 0,
-      "zpozdeni_12_15": 0,
-      "zpozdeni_15_18": 11,
-      "zpozdeni_18_24": 0,
-      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.03.2026?",
-      "timestamp": "20260303_172256"
-    }
-  },
 ⚠️ Important Notes
+
 SSL Warnings: Because verify=False is used in the requests.get() call and InsecureRequestWarning is disabled, ensure you understand the security implications if running outside a protected corporate network.
 
 Cron/Automation: This script is designed to be run periodically (e.g., every 5-10 minutes via cron job or Windows Task Scheduler) to build a continuous dataset throughout the day.
-===========================================================
