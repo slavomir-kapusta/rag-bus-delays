@@ -1,7 +1,7 @@
 
 ========================================
 
-Bus Delays in Prague public city traffic
+Bus Delays in Prague public city traffic - in Czech
 
 ========================================
 
@@ -206,4 +206,3 @@ JSON
 SSL Warnings: Because verify=False is used in the requests.get() call and InsecureRequestWarning is disabled, ensure you understand the security implications if running outside a protected corporate network.
 
 Cron/Automation: This script is designed to be run periodically (e.g., every 5-10 minutes via cron job or Windows Task Scheduler) to build a continuous dataset throughout the day.
-===========================================================
