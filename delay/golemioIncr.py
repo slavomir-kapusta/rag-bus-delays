@@ -193,14 +193,15 @@ def run_api_query():
                 except ValueError:
                     print("Chyba: Neplatný formát času z API")
                     continue
-                
-                print(f"{den_str} {prijezd_str} bus {linka} zpoždění {delay_min} min u zastávky {zastavka} (směr {smer}) ")
+
+                if linka==177:
+                    print(f"{den_str} {prijezd_str} bus {linka} zpoždění {delay_min} min u zastávky {zastavka} (směr {smer}) ")
 
                 now_str = datetime.now().strftime("%Y%m%d_%H%M%S")
                 record_id = f"{now_str}_L{linka}"
                 
                 doc_text = (f"Dne {den_str} měla linka {linka} {sekvence} zpoždění {delay_min} minut "
-                            f"u zastávky {zastavka} (směr {smer}). "
+                            f"u zastávky {zastavka} (směr {smer}) zpožděný příjezd {arrival_time_dt:%H:%M}. "
                             f"Příčina: --- ")
 
                 query_text = f"Vytvoř seznam všech autobusových linek, které měly zpoždění delší než {MIN_DELAY} minut dne {den_str }?"
@@ -242,10 +243,7 @@ def run_api_query():
 
         # Uložení do souboru
         if output_data:
-            if max_current_arrival_time:
-                file_time_str = max_current_arrival_time.replace(tzinfo=None).strftime("%Y%m%d_%H%M%S")
-            else:
-                file_time_str = datetime.now().strftime("%Y%m%d_%H%M%S")
+            file_time_str = datetime.now().strftime("%Y%m%d_%H%M%S")
                 
             filename = "data/" + file_time_str + ".json"
             

@@ -8,6 +8,39 @@ Bus Delays in Prague public city traffic
 EMBEDDING MODEL:  paraphrase-multilingual-MiniLM-L12-v2
 ==================================================
 
+chromaStats.py
+==================================================
+          STATISTIKA CHROMADB EMBEDDINGS
+==================================================
+-> Připojuji se k DB: C:\AI\aJizdniVykony\delay\chroma_db
+Loading weights: 100%| 199/199 [ 3810.31it/s, 
+Materializing param=pooler.dense.weight]
+BertModel LOAD REPORT from: C:\AI\models\paraphrase-multilingual-MiniLM-L12-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED    :can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+
+[1] POČET ZÁZNAMŮ
+    Celkem vektorů v DB:  127
+
+[2] VLASTNOSTI VEKTORŮ (EMBEDDINGS)
+    Dimenze modelu:       384 čísel na jeden vektor
+    Velikost 1 vektoru:   1536 bytů (raw float32)
+    Teoretická RAM data:  190.50 KB (pouze vektory)
+
+[3] VELIKOST NA DISKU
+    Složka 'chroma_db':   1.20 MB
+    (Obsahuje: indexy, metadata, texty a režii DB)
+
+[4] ANALÝZA QUERY (Hledání)
+    Dotaz:                'zpoždění autobusů'
+    Doba vyhledávání:     0.0810 sekund
+    Nejlepší shoda (dist):0.4402
+    Počet vrácených:      10
+
 ===========================================================
 # Golemio Incremental Bus Delay Fetcher (`golemioIncr.py`)
 
