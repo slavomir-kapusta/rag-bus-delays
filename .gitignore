@@ -1,0 +1,9 @@
+ignore/
+delay/.venv/
+delay/data/
+delay/ignore/
+delay/chroma_db/
+!delay/data/15febAll.json
+!delay/data/20260303_172200.json
+delay/retrieve/
+*.docs

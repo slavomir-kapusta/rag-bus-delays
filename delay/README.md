@@ -1,0 +1,188 @@
+
+=======================================================
+Bus Delays in Prague public city traffic
+=======================================================
+
+
+==================================================
+EMBEDDING MODEL:  paraphrase-multilingual-MiniLM-L12-v2
+==================================================
+
+===========================================================
+# Golemio Incremental Bus Delay Fetcher (`golemioIncr.py`)
+
+A Python script designed to incrementally fetch real-time public transit data from the [Golemio API](https://golemio.cz/) 
+(Prague Integrated Transport). It specifically monitors bus lines (numbered 100-999), filters for vehicles delayed by 10 minutes or more, 
+and exports the data into a JSON format optimized for vector databases like **ChromaDB**.
+
+
+==================================================
+SOURCE FILE ---   DELAY JSON: 
+==================================================
+[
+  {
+    "id": "20260215_L116",
+    "document": "Dne 15.02.2026 měla linka 116 zpoždění 12 minut v 09:27 u zastávky K Noskovně (směr Dejvická). Příčina: Nesjízdná vozovka v serpentinách Nebušice.",
+    "metadata": {
+      "den": "15.02.2026",
+      "linka": 116,
+      "zpozdeni": 12,
+      "zastavka": "K Noskovně",
+      "lat": 50.1095, 
+	  "lon": 14.3255, 
+	  "smer": "Dejvická",
+      "kategorie": "počasí",
+      "pricina": "Nesjízdná vozovka v serpentinách",
+      "plan": "09:15:00",
+      "prijezd": "09:27:00",
+      "casova_okna_zpozdeni": {
+        "00_06": 0, "06_09": 8, "09_12": 12, "12_15": 2, "15_18": 1, "18_24": 0
+      },
+	  "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15. února 2026?",
+      "timestamp": "2026-02-15T09:27:00"	  
+    },
+  },
+  ...
+ ]
+
+
+==================================================
+CHROMA DB
+==================================================
+[1] POČET ZÁZNAMŮ
+    Celkem vektorů v DB:  11
+
+[2] VLASTNOSTI VEKTORŮ (EMBEDDINGS)
+    Dimenze modelu:       384 čísel na jeden vektor
+    Velikost 1 vektoru:   1536 bytů (raw float32)
+    Teoretická RAM data:  16.50 KB (pouze vektory)
+
+[3] VELIKOST NA DISKU
+    Složka 'chroma_db':   3.98 MB
+    (Obsahuje: indexy, metadata, texty a režii DB)
+
+[4] ANALÝZA QUERY (Hledání)
+    Dotaz:                'zpoždění autobusů'
+    Doba vyhledávání:     0.0714 sekundgolemioIncr
+    Nejlepší shoda (dist):0.4453
+    Počet vrácených:      10
+
+==================================================
+RETRIEVE
+
+golemioIncr.py
+
+
+==================================================
+PROMPT TEMPLATES
+
+>>> DOTAZ: 'Jaké měla zpoždění linka 348 dne 15.2. ?'
+✅ NALEZENO 1 záznamů:
+   [1] Dne 15.02.2026 měla příměstská linka 348 zpoždění 15 minut v 08:00 u zastávky Ládví (směr Ládví). Příčina: Kluzká vozovka na příjezdu do Prahy (D8).
+       Příčina: Kluzká vozovka na příjezdu do Prahy (D8)
+
+>>> DOTAZ: 'Měla linka 125 zpoždění 16.2. ?'
+✅ NALEZENO 1 záznamů:
+   [1] Dne 16.02.2026 měla linka 125 zpoždění 22 minut v 08:17 u zastávky Lihovar (směr Smíchovské nádraží). Příčina: Kolaps na Barrandovském mostě (ranní špička).
+       Příčina: Kolaps na Barrandovském mostě
+
+>>> DOTAZ: 'Zpoždění linky 911 dne 15.2. ?'
+✅ NALEZENO 1 záznamů:
+   [1] Dne 15.02.2026 měla noční linka 911 zpoždění 11 minut v 02:21 u zastávky Ve Žlíbku (směr Nádraží Hostivař). Příčina: Neošetřená vozovka (námraza).
+       Příčina: Neošetřená vozovka (námraza) v nočních hodinách
+
+>>> DOTAZ: 'Jaké měla zpoždění linka 348 dne 11.2. ?'
+Nenalezeny zpoždění linky 348 pro den 11.02.2026
+❌ NENALEZENO.
+
+>>> DOTAZ: 'Zpoždění linky 128 dne 15.2.'
+Nenalezeny zpoždění linky 128 pro den 15.02.2026
+❌ NENALEZENO.
+
+
+===========================================================
+# Golemio Incremental Bus Delay Fetcher (`golemioIncr.py`)
+
+A Python script designed to incrementally fetch real-time public transit data from the [Golemio API](https://golemio.cz/) 
+(Prague Integrated Transport). It specifically monitors bus lines (numbered 100-999), filters for vehicles delayed by 10 minutes or more, 
+and exports the data into a JSON format optimized for vector databases like **ChromaDB**.
+---------------------
+
+## 🚀 Key Features
+* **Incremental Updates:** 
+	Reads the last generated JSON file for the current day to ensure no duplicate records are created unless the bus delay has *increased*.
+* **ChromaDB Ready:** 
+	Formats the output with an `id`, `document` text, and rich `metadata` for easy vector embeddings and LLM querying.
+* **Time-Window Categorization:** 
+	Automatically bins delays into specific times of day (e.g., morning rush hour, afternoon, evening) for easier analytical querying.
+* **Corporate Firewall Bypass:** 
+	Includes SSL verification bypass to allow the script to run smoothly in environments with strict corporate proxies or custom certificates.
+---
+## 📋 Prerequisites
+1. **Python 3.7+**
+2. **Required Libraries:**
+   ```bash
+   pip install requests urllib3
+---------------------
+Setup & Configuration
+---------------------
+Set your API Key as an environment variable. The script requires the key to be stored in the GOLEMIO_API_KLIC variable.
+On Windows (Command Prompt):	DOS		set GOLEMIO_API_KLIC=your_api_key_here
+On Linux/macOS:
+
+export GOLEMIO_API_KLIC="your_api_key_here"
+Adjust the Minimum Delay (Optional):
+By default, the script only logs buses delayed by 10 minutes or more. You can change this by modifying the MIN_DELAY constant at the top of the script:
+
+Python
+MIN_DELAY = 10 # Change to your preferred threshold in minutes
+💻 Usage
+Run the script from your terminal:
+
+Bash
+python goleioIncr.py
+What happens when you run it?
+The script checks for a local data/ directory (and creates it if it doesn't exist).
+
+It looks for the most recent JSON file created today to load historical data.
+It fetches up to 10,000 active vehicle positions from the Golemio API.
+It filters the data to find buses (lines 100-999) with a delay >= MIN_DELAY.
+It compares the newly fetched delays against the historical data. It will only record a vehicle if it hasn't been logged today, or if its delay has worsened.
+If new data is found, it saves a new JSON file in the data/ folder named by the maximum arrival time found in the dataset (e.g., data/20231024_143000.json).
+
+🗂️ Output Data Structure
+The generated JSON files contain an array of objects structured specifically for RAG (Retrieval-Augmented Generation) applications.
+
+Example Record:
+JSON
+[
+  {
+    "id": "20231024_143522_L119",
+    "document": "Dne 24.10.2023 měla linka 119 zpoždění 12 minut u zastávky U Hangáru (směr Letiště). Příčina: --- ",
+    "metadata": {
+      "den": "24.10.2023",
+      "linka": 119,
+      "zpozdeni": 12,
+      "zastavka": "U Hangáru",
+      "lat": 50.1065,
+      "lon": 14.2888,
+      "smer": "Letiště",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "14:35:22",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 12,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.10.2023?",
+      "timestamp": "20231024_143522"
+    }
+  }
+]
+⚠️ Important Notes
+SSL Warnings: Because verify=False is used in the requests.get() call and InsecureRequestWarning is disabled, ensure you understand the security implications if running outside a protected corporate network.
+
+Cron/Automation: This script is designed to be run periodically (e.g., every 5-10 minutes via cron job or Windows Task Scheduler) to build a continuous dataset throughout the day.
+===========================================================
