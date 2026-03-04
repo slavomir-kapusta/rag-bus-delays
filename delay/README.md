@@ -45,36 +45,35 @@ and exports the data into a JSON format optimized for vector databases like **Ch
 ==================================================
 SOURCE FILE ---   DELAY JSON: 
 ==================================================
+
 [
   {
-    "id": "20260215_L116",
-    "document": "Dne 15.02.2026 měla linka 116 zpoždění 12 minut v 09:27 u zastávky K Noskovně (směr Dejvická). Příčina: Nesjízdná vozovka v serpentinách Nebušice.",
+    "id": "20260303_172256_L182",
+    "document": "Dne 03.03.2026 měla linka 182 6 zpoždění 11 minut u zastávky U677Z1P (směr Opatov). Příčina: --- ",
     "metadata": {
-      "den": "15.02.2026",
-      "linka": 116,
-      "zpozdeni": 12,
-      "zastavka": "K Noskovně",
-      "lat": 50.1095, 
-	  "lon": 14.3255, 
-	  "smer": "Dejvická",
-      "kategorie": "počasí",
-      "pricina": "Nesjízdná vozovka v serpentinách",
-      "plan": "09:15:00",
-      "prijezd": "09:27:00",
-      "casova_okna_zpozdeni": {
-        "00_06": 0, "06_09": 8, "09_12": 12, "12_15": 2, "15_18": 1, "18_24": 0
-      },
-	  "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15. února 2026?",
-      "timestamp": "2026-02-15T09:27:00"	  
-    },
+      "den": "03.03.2026",
+      "linka": 182,
+      "zpozdeni": 11,
+      "zastavka": "U677Z1P",
+      "lat": 50.05718,
+      "lon": 14.53642,
+      "smer": "Opatov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "17:12:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 11,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.03.2026?",
+      "timestamp": "20260303_172256"
+    }
   },
-  ...
- ]
 
-
-==================================================
 CHROMA DB
-==================================================
+
 [1] POČET ZÁZNAMŮ
     Celkem vektorů v DB:  11
 
@@ -93,13 +92,11 @@ CHROMA DB
     Nejlepší shoda (dist):0.4453
     Počet vrácených:      10
 
-==================================================
 RETRIEVE
 
 golemioIncr.py
 
 
-==================================================
 PROMPT TEMPLATES
 
 >>> DOTAZ: 'Jaké měla zpoždění linka 348 dne 15.2. ?'
@@ -126,7 +123,6 @@ Nenalezeny zpoždění linky 128 pro den 15.02.2026
 ❌ NENALEZENO.
 
 
-===========================================================
 # Golemio Incremental Bus Delay Fetcher (`golemioIncr.py`)
 
 A Python script designed to incrementally fetch real-time public transit data from the [Golemio API](https://golemio.cz/) 
@@ -183,30 +179,29 @@ Example Record:
 JSON
 [
   {
-    "id": "20231024_143522_L119",
-    "document": "Dne 24.10.2023 měla linka 119 zpoždění 12 minut u zastávky U Hangáru (směr Letiště). Příčina: --- ",
+    "id": "20260303_172256_L182",
+    "document": "Dne 03.03.2026 měla linka 182 6 zpoždění 11 minut u zastávky U677Z1P (směr Opatov). Příčina: --- ",
     "metadata": {
-      "den": "24.10.2023",
-      "linka": 119,
-      "zpozdeni": 12,
-      "zastavka": "U Hangáru",
-      "lat": 50.1065,
-      "lon": 14.2888,
-      "smer": "Letiště",
+      "den": "03.03.2026",
+      "linka": 182,
+      "zpozdeni": 11,
+      "zastavka": "U677Z1P",
+      "lat": 50.05718,
+      "lon": 14.53642,
+      "smer": "Opatov",
       "kategorie": "provoz",
       "pricina": "--- ",
-      "prijezd": "14:35:22",
+      "prijezd": "17:12:00",
       "zpozdeni_00_06": 0,
       "zpozdeni_06_09": 0,
       "zpozdeni_09_12": 0,
-      "zpozdeni_12_15": 12,
-      "zpozdeni_15_18": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 11,
       "zpozdeni_18_24": 0,
-      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.10.2023?",
-      "timestamp": "20231024_143522"
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.03.2026?",
+      "timestamp": "20260303_172256"
     }
-  }
-]
+  },
 ⚠️ Important Notes
 SSL Warnings: Because verify=False is used in the requests.get() call and InsecureRequestWarning is disabled, ensure you understand the security implications if running outside a protected corporate network.
 
