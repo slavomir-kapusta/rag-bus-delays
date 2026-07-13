@@ -1,3 +1,0 @@
-requests
-chromadb
-sentence-transformers
