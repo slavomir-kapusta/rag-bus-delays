@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260617_230128_L463",
+    "document": "Dne 17.06.2026 měla linka 463 / 6 zpoždění 10 minut u zastávky U6182Z1 (směr Rožďalovice,nám.) zpožděný příjezd 22:51. vozidlo: 9787, zpoždění: 10, zastávka: U6182Z1, lat: 50.36912, lon: 14.98797, směr: Rožďalovice,nám., kategorie: provoz, příjezd: 22:51:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 463,
+      "obeh": 6,
+      "vozidlo": 9787,
+      "zpozdeni": 10,
+      "zastavka": "U6182Z1",
+      "lat": 50.36912,
+      "lon": 14.98797,
+      "smer": "Rožďalovice,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:51:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_230128"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260617_194108_L199",
+    "document": "Dne 17.06.2026 měla linka 199 / 2 zpoždění 13 minut u zastávky U921Z9P (směr Želivského) zpožděný příjezd 19:28. vozidlo: 4073, zpoždění: 13, zastávka: U921Z9P, lat: 50.07842, lon: 14.47522, směr: Želivského, kategorie: provoz, příjezd: 19:28:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 199,
+      "obeh": 2,
+      "vozidlo": 4073,
+      "zpozdeni": 13,
+      "zastavka": "U921Z9P",
+      "lat": 50.07842,
+      "lon": 14.47522,
+      "smer": "Želivského",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:28:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_194108"
+    }
+  },
+  {
+    "id": "20260617_194108_L365",
+    "document": "Dne 17.06.2026 měla linka 365 / 12 zpoždění 14 minut u zastávky U9920Z2 (směr Stochov,nám.) zpožděný příjezd 19:27. vozidlo: 8832, zpoždění: 14, zastávka: U9920Z2, lat: 50.13793, lon: 13.98948, směr: Stochov,nám., kategorie: provoz, příjezd: 19:27:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 365,
+      "obeh": 12,
+      "vozidlo": 8832,
+      "zpozdeni": 14,
+      "zastavka": "U9920Z2",
+      "lat": 50.13793,
+      "lon": 13.98948,
+      "smer": "Stochov,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:27:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_194108"
+    }
+  }
+]

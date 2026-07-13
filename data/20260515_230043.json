@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260515_230043_L472",
+    "document": "Dne 15.05.2026 měla linka 472 / 7 zpoždění 14 minut u zastávky U2184Z2 (směr Všetaty,žel.st.) zpožděný příjezd 22:46. vozidlo: 8090, zpoždění: 14, zastávka: U2184Z2, lat: 50.25865, lon: 14.56322, směr: Všetaty,žel.st., kategorie: provoz, příjezd: 22:46:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 472,
+      "obeh": 7,
+      "vozidlo": 8090,
+      "zpozdeni": 14,
+      "zastavka": "U2184Z2",
+      "lat": 50.25865,
+      "lon": 14.56322,
+      "smer": "Všetaty,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_230043"
+    }
+  },
+  {
+    "id": "20260515_230043_L686",
+    "document": "Dne 15.05.2026 měla linka 686 / 34 zpoždění 15 minut u zastávky U2315Z1 (směr Úvaly,žel.st.) zpožděný příjezd 22:43. vozidlo: 8034, zpoždění: 15, zastávka: U2315Z1, lat: 50.07408, lon: 14.72321, směr: Úvaly,žel.st., kategorie: provoz, příjezd: 22:43:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 686,
+      "obeh": 34,
+      "vozidlo": 8034,
+      "zpozdeni": 15,
+      "zastavka": "U2315Z1",
+      "lat": 50.07408,
+      "lon": 14.72321,
+      "smer": "Úvaly,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_230043"
+    }
+  }
+]

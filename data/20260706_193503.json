@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_193503_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 52 zpoždění 11 minut u zastávky U31357Z1 (směr Nový Bor,aut.nádr.) zpožděný příjezd 19:24. vozidlo: 1088, zpoždění: 11, zastávka: U31357Z1, lat: 50.73074, lon: 14.54661, směr: Nový Bor,aut.nádr., kategorie: provoz, příjezd: 19:24:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 52,
+      "vozidlo": 1088,
+      "zpozdeni": 11,
+      "zastavka": "U31357Z1",
+      "lat": 50.73074,
+      "lon": 14.54661,
+      "smer": "Nový Bor,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:24:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_193503"
+    }
+  },
+  {
+    "id": "20260706_193503_L770",
+    "document": "Dne 06.07.2026 měla linka 770 / 26 zpoždění 12 minut u zastávky U7809Z2 (směr Benešov,Terminál) zpožděný příjezd 19:23. vozidlo: 7815, zpoždění: 12, zastávka: U7809Z2, lat: 49.81154, lon: 14.76, směr: Benešov,Terminál, kategorie: provoz, příjezd: 19:23:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 770,
+      "obeh": 26,
+      "vozidlo": 7815,
+      "zpozdeni": 12,
+      "zastavka": "U7809Z2",
+      "lat": 49.81154,
+      "lon": 14.76,
+      "smer": "Benešov,Terminál",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:23:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_193503"
+    }
+  },
+  {
+    "id": "20260706_193503_L406",
+    "document": "Dne 06.07.2026 měla linka 406 / 1 zpoždění 12 minut u zastávky U7012Z2 (směr Praha,Roztyly) zpožděný příjezd 19:22. vozidlo: 7930, zpoždění: 12, zastávka: U7012Z2, lat: 49.77885, lon: 14.715, směr: Praha,Roztyly, kategorie: provoz, příjezd: 19:22:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 406,
+      "obeh": 1,
+      "vozidlo": 7930,
+      "zpozdeni": 12,
+      "zastavka": "U7012Z2",
+      "lat": 49.77885,
+      "lon": 14.715,
+      "smer": "Praha,Roztyly",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:22:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_193503"
+    }
+  }
+]

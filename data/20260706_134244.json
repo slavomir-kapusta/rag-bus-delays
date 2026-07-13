@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_134244_L120",
+    "document": "Dne 06.07.2026 měla linka 120 / 2 zpoždění 21 minut u zastávky U456Z2P (směr Nádraží Hlubočepy) zpožděný příjezd 13:21. vozidlo: 3664, zpoždění: 21, zastávka: U456Z2P, lat: 49.98315, lon: 14.35871, směr: Nádraží Hlubočepy, kategorie: provoz, příjezd: 13:21:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 120,
+      "obeh": 2,
+      "vozidlo": 3664,
+      "zpozdeni": 21,
+      "zastavka": "U456Z2P",
+      "lat": 49.98315,
+      "lon": 14.35871,
+      "smer": "Nádraží Hlubočepy",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "13:21:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 21,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_134244"
+    }
+  },
+  {
+    "id": "20260706_134244_L521",
+    "document": "Dne 06.07.2026 měla linka 521 / 1 zpoždění 10 minut u zastávky U9741Z2 (směr Příbram,aut.nádr.) zpožděný příjezd 13:33. vozidlo: 9603, zpoždění: 10, zastávka: U9741Z2, lat: 49.67699, lon: 13.98291, směr: Příbram,aut.nádr., kategorie: provoz, příjezd: 13:33:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 521,
+      "obeh": 1,
+      "vozidlo": 9603,
+      "zpozdeni": 10,
+      "zastavka": "U9741Z2",
+      "lat": 49.67699,
+      "lon": 13.98291,
+      "smer": "Příbram,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "13:33:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 10,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_134244"
+    }
+  }
+]

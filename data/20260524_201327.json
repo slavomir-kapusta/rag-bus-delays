@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_201327_L425",
+    "document": "Dne 24.05.2026 měla linka 425 / 20 zpoždění 12 minut u zastávky U2588Z2 (směr Praha,Černý Most) zpožděný příjezd 20:00. vozidlo: 1629, zpoždění: 12, zastávka: U2588Z2, lat: 50.19623, lon: 15.29937, směr: Praha,Černý Most, kategorie: provoz, příjezd: 20:00:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 425,
+      "obeh": 20,
+      "vozidlo": 1629,
+      "zpozdeni": 12,
+      "zastavka": "U2588Z2",
+      "lat": 50.19623,
+      "lon": 15.29937,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:00:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_201327"
+    }
+  },
+  {
+    "id": "20260524_201327_L315",
+    "document": "Dne 24.05.2026 měla linka 315 / 78 zpoždění 12 minut u zastávky U3264Z1 (směr Praha,Černý Most) zpožděný příjezd 20:00. vozidlo: 8670, zpoždění: 12, zastávka: U3264Z1, lat: 50.33135, lon: 14.86586, směr: Praha,Černý Most, kategorie: provoz, příjezd: 20:00:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 315,
+      "obeh": 78,
+      "vozidlo": 8670,
+      "zpozdeni": 12,
+      "zastavka": "U3264Z1",
+      "lat": 50.33135,
+      "lon": 14.86586,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:00:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_201327"
+    }
+  },
+  {
+    "id": "20260524_201327_L480",
+    "document": "Dne 24.05.2026 měla linka 480 / 13 zpoždění 18 minut u zastávky U7631Z1 (směr Milešov,rozc.) zpožděný příjezd 19:49. vozidlo: 7214, zpoždění: 18, zastávka: U7631Z1, lat: 49.61863, lon: 14.27517, směr: Milešov,rozc., kategorie: provoz, příjezd: 19:49:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 480,
+      "obeh": 13,
+      "vozidlo": 7214,
+      "zpozdeni": 18,
+      "zastavka": "U7631Z1",
+      "lat": 49.61863,
+      "lon": 14.27517,
+      "smer": "Milešov,rozc.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:49:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 18,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_201327"
+    }
+  }
+]

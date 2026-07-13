@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260514_202806_L342",
+    "document": "Dne 14.05.2026 měla linka 342 / 1 zpoždění 10 minut u zastávky U4806Z1 (směr Slaný,žel.st.) zpožděný příjezd 20:18. vozidlo: 7702, zpoždění: 10, zastávka: U4806Z1, lat: 50.18933, lon: 14.11067, směr: Slaný,žel.st., kategorie: provoz, příjezd: 20:18:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 342,
+      "obeh": 1,
+      "vozidlo": 7702,
+      "zpozdeni": 10,
+      "zastavka": "U4806Z1",
+      "lat": 50.18933,
+      "lon": 14.11067,
+      "smer": "Slaný,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:18:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_202806"
+    }
+  },
+  {
+    "id": "20260514_202806_L345",
+    "document": "Dne 14.05.2026 měla linka 345 / 17 zpoždění 11 minut u zastávky U31065Z1 (směr Liberec,aut.nádr.) zpožděný příjezd 20:16. vozidlo: 1865, zpoždění: 11, zastávka: U31065Z1, lat: 50.74836, lon: 15.06517, směr: Liberec,aut.nádr., kategorie: provoz, příjezd: 20:16:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 345,
+      "obeh": 17,
+      "vozidlo": 1865,
+      "zpozdeni": 11,
+      "zastavka": "U31065Z1",
+      "lat": 50.74836,
+      "lon": 15.06517,
+      "smer": "Liberec,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:16:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_202806"
+    }
+  },
+  {
+    "id": "20260514_202806_L412",
+    "document": "Dne 14.05.2026 měla linka 412 / 43 zpoždění 94 minut u zastávky U31001Z2 (směr Sobotka,nám.) zpožděný příjezd 18:53. vozidlo: 9917, zpoždění: 94, zastávka: U31001Z2, lat: 50.46722, lon: 15.18172, směr: Sobotka,nám., kategorie: provoz, příjezd: 18:53:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 412,
+      "obeh": 43,
+      "vozidlo": 9917,
+      "zpozdeni": 94,
+      "zastavka": "U31001Z2",
+      "lat": 50.46722,
+      "lon": 15.18172,
+      "smer": "Sobotka,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "18:53:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 94,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_202806"
+    }
+  }
+]

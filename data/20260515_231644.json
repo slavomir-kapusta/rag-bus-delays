@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260515_231644_L360",
+    "document": "Dne 15.05.2026 měla linka 360 / 3 zpoždění 11 minut u zastávky U4763Z1 (směr Sedlčany,aut.st.) zpožděný příjezd 23:05. vozidlo: 7207, zpoždění: 11, zastávka: U4763Z1, lat: 49.66315, lon: 14.42359, směr: Sedlčany,aut.st., kategorie: provoz, příjezd: 23:05:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 360,
+      "obeh": 3,
+      "vozidlo": 7207,
+      "zpozdeni": 11,
+      "zastavka": "U4763Z1",
+      "lat": 49.66315,
+      "lon": 14.42359,
+      "smer": "Sedlčany,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:05:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_231644"
+    }
+  },
+  {
+    "id": "20260515_231644_L670",
+    "document": "Dne 15.05.2026 měla linka 670 / 16 zpoždění 10 minut u zastávky U1468Z2 (směr Brandýs n.L.-St.Bol.,Aut.st.) zpožděný příjezd 23:04. vozidlo: 8072, zpoždění: 10, zastávka: U1468Z2, lat: 50.22542, lon: 14.71928, směr: Brandýs n.L.-St.Bol.,Aut.st., kategorie: provoz, příjezd: 23:04:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 670,
+      "obeh": 16,
+      "vozidlo": 8072,
+      "zpozdeni": 10,
+      "zastavka": "U1468Z2",
+      "lat": 50.22542,
+      "lon": 14.71928,
+      "smer": "Brandýs n.L.-St.Bol.,Aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:04:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_231644"
+    }
+  },
+  {
+    "id": "20260515_231644_L686",
+    "document": "Dne 15.05.2026 měla linka 686 / 34 zpoždění 31 minut u zastávky U2315Z1 (směr Úvaly,žel.st.) zpožděný příjezd 22:43. vozidlo: 8034, zpoždění: 31, zastávka: U2315Z1, lat: 50.07408, lon: 14.72321, směr: Úvaly,žel.st., kategorie: provoz, příjezd: 22:43:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 686,
+      "obeh": 34,
+      "vozidlo": 8034,
+      "zpozdeni": 31,
+      "zastavka": "U2315Z1",
+      "lat": 50.07408,
+      "lon": 14.72321,
+      "smer": "Úvaly,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 31,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_231644"
+    }
+  }
+]

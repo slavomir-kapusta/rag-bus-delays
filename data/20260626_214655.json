@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260626_214655_L136",
+    "document": "Dne 26.06.2026 měla linka 136 / 55 zpoždění 14 minut u zastávky U680Z3P (směr Jižní Město) zpožděný příjezd 21:32. vozidlo: 6889, zpoždění: 14, zastávka: U680Z3P, lat: 50.06839, lon: 14.46928, směr: Jižní Město, kategorie: provoz, příjezd: 21:32:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6889,
+      "zpozdeni": 14,
+      "zastavka": "U680Z3P",
+      "lat": 50.06839,
+      "lon": 14.46928,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:32:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214655"
+    }
+  },
+  {
+    "id": "20260626_214655_L315",
+    "document": "Dne 26.06.2026 měla linka 315 / 11 zpoždění 18 minut u zastávky U2987Z8 (směr Praha,Černý Most) zpožděný příjezd 21:25. vozidlo: 1861, zpoždění: 18, zastávka: U2987Z8, lat: 50.4155, lon: 14.91072, směr: Praha,Černý Most, kategorie: provoz, příjezd: 21:25:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 315,
+      "obeh": 11,
+      "vozidlo": 1861,
+      "zpozdeni": 18,
+      "zastavka": "U2987Z8",
+      "lat": 50.4155,
+      "lon": 14.91072,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:25:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 18,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214655"
+    }
+  },
+  {
+    "id": "20260626_214655_L332",
+    "document": "Dne 26.06.2026 měla linka 332 / 19 zpoždění 10 minut u zastávky U488Z7 (směr Praha,Budějovická) zpožděný příjezd 21:35. vozidlo: 9955, zpoždění: 10, zastávka: U488Z7, lat: 50.0401, lon: 14.45834, směr: Praha,Budějovická, kategorie: provoz, příjezd: 21:35:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 332,
+      "obeh": 19,
+      "vozidlo": 9955,
+      "zpozdeni": 10,
+      "zastavka": "U488Z7",
+      "lat": 50.0401,
+      "lon": 14.45834,
+      "smer": "Praha,Budějovická",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214655"
+    }
+  }
+]

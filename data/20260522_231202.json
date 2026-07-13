@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260522_231202_L316",
+    "document": "Dne 22.05.2026 měla linka 316 / 1 zpoždění 11 minut u zastávky U1201Z2 (směr Praha,Bořislavka) zpožděný příjezd 23:01. vozidlo: 8980, zpoždění: 11, zastávka: U1201Z2, lat: 50.14575, lon: 14.33156, směr: Praha,Bořislavka, kategorie: provoz, příjezd: 23:01:00",
+    "metadata": {
+      "den": "22.05.2026",
+      "linka": 316,
+      "obeh": 1,
+      "vozidlo": 8980,
+      "zpozdeni": 11,
+      "zastavka": "U1201Z2",
+      "lat": 50.14575,
+      "lon": 14.33156,
+      "smer": "Praha,Bořislavka",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:01:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 22.05.2026?",
+      "timestamp": "20260522_231202"
+    }
+  }
+]

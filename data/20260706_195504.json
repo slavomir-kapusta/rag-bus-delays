@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_195504_L430",
+    "document": "Dne 06.07.2026 měla linka 430 / 62 zpoždění 14 minut u zastávky U1492Z2 (směr Milovice,žel.st.) zpožděný příjezd 19:37. vozidlo: 8559, zpoždění: 14, zastávka: U1492Z2, lat: 50.23017, lon: 14.88263, směr: Milovice,žel.st., kategorie: provoz, příjezd: 19:37:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 430,
+      "obeh": 62,
+      "vozidlo": 8559,
+      "zpozdeni": 14,
+      "zastavka": "U1492Z2",
+      "lat": 50.23017,
+      "lon": 14.88263,
+      "smer": "Milovice,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_195504"
+    }
+  },
+  {
+    "id": "20260706_195504_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 53 zpoždění 11 minut u zastávky U1794Z2 (směr Praha,Střížkov) zpožděný příjezd 19:41. vozidlo: 1087, zpoždění: 11, zastávka: U1794Z2, lat: 50.35064, lon: 14.48935, směr: Praha,Střížkov, kategorie: provoz, příjezd: 19:41:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 53,
+      "vozidlo": 1087,
+      "zpozdeni": 11,
+      "zastavka": "U1794Z2",
+      "lat": 50.35064,
+      "lon": 14.48935,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:41:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_195504"
+    }
+  }
+]

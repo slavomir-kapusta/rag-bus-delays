@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_213113_L339",
+    "document": "Dne 06.07.2026 měla linka 339 / 26 zpoždění 10 minut u zastávky U1539Z1 (směr Kamenice,kult.dům) zpožděný příjezd 21:20. vozidlo: 9950, zpoždění: 10, zastávka: U1539Z1, lat: 49.90385, lon: 14.58805, směr: Kamenice,kult.dům, kategorie: provoz, příjezd: 21:20:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 339,
+      "obeh": 26,
+      "vozidlo": 9950,
+      "zpozdeni": 10,
+      "zastavka": "U1539Z1",
+      "lat": 49.90385,
+      "lon": 14.58805,
+      "smer": "Kamenice,kult.dům",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:20:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_213113"
+    }
+  },
+  {
+    "id": "20260706_213113_L136",
+    "document": "Dne 06.07.2026 měla linka 136 / 55 zpoždění 10 minut u zastávky U743Z2P (směr Jižní Město) zpožděný příjezd 21:21. vozidlo: 6880, zpoždění: 10, zastávka: U743Z2P, lat: 50.08645, lon: 14.45541, směr: Jižní Město, kategorie: provoz, příjezd: 21:21:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6880,
+      "zpozdeni": 10,
+      "zastavka": "U743Z2P",
+      "lat": 50.08645,
+      "lon": 14.45541,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:21:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_213113"
+    }
+  },
+  {
+    "id": "20260706_213113_L646",
+    "document": "Dne 06.07.2026 měla linka 646 / 71 zpoždění 13 minut u zastávky U1794Z2 (směr Mělník,aut.nádr.) zpožděný příjezd 21:16. vozidlo: 8077, zpoždění: 13, zastávka: U1794Z2, lat: 50.3507, lon: 14.48971, směr: Mělník,aut.nádr., kategorie: provoz, příjezd: 21:16:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 646,
+      "obeh": 71,
+      "vozidlo": 8077,
+      "zpozdeni": 13,
+      "zastavka": "U1794Z2",
+      "lat": 50.3507,
+      "lon": 14.48971,
+      "smer": "Mělník,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:16:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_213113"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260520_222309_L136",
+    "document": "Dne 20.05.2026 měla linka 136 / 3 zpoždění 10 minut u zastávky U286Z5P (směr Jižní Město) zpožděný příjezd 22:12. vozidlo: 6724, zpoždění: 10, zastávka: U286Z5P, lat: 50.03073, lon: 14.52988, směr: Jižní Město, kategorie: provoz, příjezd: 22:12:00",
+    "metadata": {
+      "den": "20.05.2026",
+      "linka": 136,
+      "obeh": 3,
+      "vozidlo": 6724,
+      "zpozdeni": 10,
+      "zastavka": "U286Z5P",
+      "lat": 50.03073,
+      "lon": 14.52988,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:12:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.05.2026?",
+      "timestamp": "20260520_222309"
+    }
+  }
+]

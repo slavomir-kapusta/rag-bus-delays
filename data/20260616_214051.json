@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_214051_L639",
+    "document": "Dne 16.06.2026 měla linka 639 / 13 zpoždění 12 minut u zastávky U7179Z2 (směr Hořovice,nám.B.Němcové) zpožděný příjezd 21:28. vozidlo: 9546, zpoždění: 12, zastávka: U7179Z2, lat: 49.84492, lon: 13.93198, směr: Hořovice,nám.B.Němcové, kategorie: provoz, příjezd: 21:28:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 639,
+      "obeh": 13,
+      "vozidlo": 9546,
+      "zpozdeni": 12,
+      "zastavka": "U7179Z2",
+      "lat": 49.84492,
+      "lon": 13.93198,
+      "smer": "Hořovice,nám.B.Němcové",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:28:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_214051"
+    }
+  }
+]

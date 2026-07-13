@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260515_204607_L345",
+    "document": "Dne 15.05.2026 měla linka 345 / 17 zpoždění 32 minut u zastávky U32718Z1 (směr Liberec,aut.nádr.) zpožděný příjezd 20:02. vozidlo: 1865, zpoždění: 32, zastávka: U32718Z1, lat: 50.73007, lon: 15.05536, směr: Liberec,aut.nádr., kategorie: provoz, příjezd: 20:02:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 345,
+      "obeh": 17,
+      "vozidlo": 1865,
+      "zpozdeni": 32,
+      "zastavka": "U32718Z1",
+      "lat": 50.73007,
+      "lon": 15.05536,
+      "smer": "Liberec,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:02:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 32,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_204607"
+    }
+  },
+  {
+    "id": "20260515_204607_L400",
+    "document": "Dne 15.05.2026 měla linka 400 / 6 zpoždění 10 minut u zastávky U6073Z1 (směr Cvikov,aut.st.) zpožděný příjezd 20:35. vozidlo: 11628, zpoždění: 10, zastávka: U6073Z1, lat: 50.47837, lon: 14.48463, směr: Cvikov,aut.st., kategorie: provoz, příjezd: 20:35:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 400,
+      "obeh": 6,
+      "vozidlo": 11628,
+      "zpozdeni": 10,
+      "zastavka": "U6073Z1",
+      "lat": 50.47837,
+      "lon": 14.48463,
+      "smer": "Cvikov,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_204607"
+    }
+  },
+  {
+    "id": "20260515_204607_L442",
+    "document": "Dne 15.05.2026 měla linka 442 / 5 zpoždění 29 minut u zastávky U3389Z1 (směr Mladá Boleslav,aut.st.) zpožděný příjezd 20:13. vozidlo: 1844, zpoždění: 29, zastávka: U3389Z1, lat: 50.4189, lon: 14.91825, směr: Mladá Boleslav,aut.st., kategorie: provoz, příjezd: 20:13:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 442,
+      "obeh": 5,
+      "vozidlo": 1844,
+      "zpozdeni": 29,
+      "zastavka": "U3389Z1",
+      "lat": 50.4189,
+      "lon": 14.91825,
+      "smer": "Mladá Boleslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:13:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 29,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_204607"
+    }
+  }
+]

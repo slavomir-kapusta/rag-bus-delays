@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260603_210641_L339",
+    "document": "Dne 03.06.2026 měla linka 339 / 14 zpoždění 10 minut u zastávky U1543Z1 (směr Týnec n.Sáz.,žel.st.) zpožděný příjezd 20:55. vozidlo: 9364, zpoždění: 10, zastávka: U1543Z1, lat: 49.87611, lon: 14.62104, směr: Týnec n.Sáz.,žel.st., kategorie: provoz, příjezd: 20:55:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 339,
+      "obeh": 14,
+      "vozidlo": 9364,
+      "zpozdeni": 10,
+      "zastavka": "U1543Z1",
+      "lat": 49.87611,
+      "lon": 14.62104,
+      "smer": "Týnec n.Sáz.,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:55:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_210641"
+    }
+  },
+  {
+    "id": "20260603_210641_L550",
+    "document": "Dne 03.06.2026 měla linka 550 / 78 zpoždění 46 minut u zastávky U6757Z1 (směr Vlašim,žel.st.) zpožděný příjezd 20:18. vozidlo: 7894, zpoždění: 46, zastávka: U6757Z1, lat: 49.7008, lon: 14.89721, směr: Vlašim,žel.st., kategorie: provoz, příjezd: 20:18:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 550,
+      "obeh": 78,
+      "vozidlo": 7894,
+      "zpozdeni": 46,
+      "zastavka": "U6757Z1",
+      "lat": 49.7008,
+      "lon": 14.89721,
+      "smer": "Vlašim,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:18:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 46,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_210641"
+    }
+  },
+  {
+    "id": "20260603_210641_L388",
+    "document": "Dne 03.06.2026 měla linka 388 / 15 zpoždění 44 minut u zastávky U85Z1 (směr Praha,Nádraží Veleslavín) zpožděný příjezd 20:19. vozidlo: 7755, zpoždění: 44, zastávka: U85Z1, lat: 50.0953, lon: 14.34568, směr: Praha,Nádraží Veleslavín, kategorie: provoz, příjezd: 20:19:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 388,
+      "obeh": 15,
+      "vozidlo": 7755,
+      "zpozdeni": 44,
+      "zastavka": "U85Z1",
+      "lat": 50.0953,
+      "lon": 14.34568,
+      "smer": "Praha,Nádraží Veleslavín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:19:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 44,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_210641"
+    }
+  }
+]

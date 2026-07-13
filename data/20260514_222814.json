@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260514_222814_L136",
+    "document": "Dne 14.05.2026 měla linka 136 / 56 zpoždění 14 minut u zastávky U37Z1P (směr Jižní Město) zpožděný příjezd 22:14. vozidlo: 6875, zpoždění: 14, zastávka: U37Z1P, lat: 50.06115, lon: 14.46947, směr: Jižní Město, kategorie: provoz, příjezd: 22:14:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 136,
+      "obeh": 56,
+      "vozidlo": 6875,
+      "zpozdeni": 14,
+      "zastavka": "U37Z1P",
+      "lat": 50.06115,
+      "lon": 14.46947,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:14:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_222814"
+    }
+  },
+  {
+    "id": "20260514_222814_L536",
+    "document": "Dne 14.05.2026 měla linka 536 / 26 zpoždění 73 minut u zastávky U6018Z1 (směr Kolín,nádraží) zpožděný příjezd 21:12. vozidlo: 7618, zpoždění: 73, zastávka: U6018Z1, lat: 50.02418, lon: 15.21351, směr: Kolín,nádraží, kategorie: provoz, příjezd: 21:12:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 536,
+      "obeh": 26,
+      "vozidlo": 7618,
+      "zpozdeni": 73,
+      "zastavka": "U6018Z1",
+      "lat": 50.02418,
+      "lon": 15.21351,
+      "smer": "Kolín,nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:12:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 73,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_222814"
+    }
+  },
+  {
+    "id": "20260514_222814_L699",
+    "document": "Dne 14.05.2026 měla linka 699 / 23 zpoždění 69 minut u zastávky U3389Z1 (směr Mladá Boleslav,aut.st.) zpožděný příjezd 21:13. vozidlo: 8607, zpoždění: 69, zastávka: U3389Z1, lat: 50.41907, lon: 14.91753, směr: Mladá Boleslav,aut.st., kategorie: provoz, příjezd: 21:13:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 699,
+      "obeh": 23,
+      "vozidlo": 8607,
+      "zpozdeni": 69,
+      "zastavka": "U3389Z1",
+      "lat": 50.41907,
+      "lon": 14.91753,
+      "smer": "Mladá Boleslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:13:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 69,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_222814"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260617_212520_L801",
+    "document": "Dne 17.06.2026 měla linka 801 / 2 zpoždění 12 minut u zastávky U7342Z2 (směr Kutná Hora,Žižkov,poliklinika) zpožděný příjezd 21:13. vozidlo: 1827, zpoždění: 12, zastávka: U7342Z2, lat: 49.95699, lon: 15.27728, směr: Kutná Hora,Žižkov,poliklinika, kategorie: provoz, příjezd: 21:13:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 801,
+      "obeh": 2,
+      "vozidlo": 1827,
+      "zpozdeni": 12,
+      "zastavka": "U7342Z2",
+      "lat": 49.95699,
+      "lon": 15.27728,
+      "smer": "Kutná Hora,Žižkov,poliklinika",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:13:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_212520"
+    }
+  },
+  {
+    "id": "20260617_212520_L337",
+    "document": "Dne 17.06.2026 měla linka 337 / 12 zpoždění 10 minut u zastávky U1564Z1 (směr Benešov,Terminál) zpožděný příjezd 21:14. vozidlo: 9933, zpoždění: 10, zastávka: U1564Z1, lat: 49.90367, lon: 14.58761, směr: Benešov,Terminál, kategorie: provoz, příjezd: 21:14:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 337,
+      "obeh": 12,
+      "vozidlo": 9933,
+      "zpozdeni": 10,
+      "zastavka": "U1564Z1",
+      "lat": 49.90367,
+      "lon": 14.58761,
+      "smer": "Benešov,Terminál",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:14:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_212520"
+    }
+  },
+  {
+    "id": "20260617_212520_L389",
+    "document": "Dne 17.06.2026 měla linka 389 / 10 zpoždění 20 minut u zastávky U32406Z12 (směr Chomutov,žel.st.) zpožděný příjezd 21:03. vozidlo: 7753, zpoždění: 20, zastávka: U32406Z12, lat: 50.45668, lon: 13.40016, směr: Chomutov,žel.st., kategorie: provoz, příjezd: 21:03:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 389,
+      "obeh": 10,
+      "vozidlo": 7753,
+      "zpozdeni": 20,
+      "zastavka": "U32406Z12",
+      "lat": 50.45668,
+      "lon": 13.40016,
+      "smer": "Chomutov,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:03:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 20,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_212520"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260617_215723_L400",
+    "document": "Dne 17.06.2026 měla linka 400 / 6 zpoždění 12 minut u zastávky U31363Z1 (směr Cvikov,aut.st.) zpožděný příjezd 21:42. vozidlo: 11628, zpoždění: 12, zastávka: U31363Z1, lat: 50.7766, lon: 14.57711, směr: Cvikov,aut.st., kategorie: provoz, příjezd: 21:42:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 400,
+      "obeh": 6,
+      "vozidlo": 11628,
+      "zpozdeni": 12,
+      "zastavka": "U31363Z1",
+      "lat": 50.7766,
+      "lon": 14.57711,
+      "smer": "Cvikov,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_215723"
+    }
+  },
+  {
+    "id": "20260617_215723_L375",
+    "document": "Dne 17.06.2026 měla linka 375 / 4 zpoždění 10 minut u zastávky U474Z7 (směr Praha,Českomoravská) zpožděný příjezd 21:46. vozidlo: 8257, zpoždění: 10, zastávka: U474Z7, lat: 50.10713, lon: 14.50218, směr: Praha,Českomoravská, kategorie: provoz, příjezd: 21:46:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 375,
+      "obeh": 4,
+      "vozidlo": 8257,
+      "zpozdeni": 10,
+      "zastavka": "U474Z7",
+      "lat": 50.10713,
+      "lon": 14.50218,
+      "smer": "Praha,Českomoravská",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_215723"
+    }
+  }
+]

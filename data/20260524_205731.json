@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_205731_L380",
+    "document": "Dne 24.05.2026 měla linka 380 / 1 zpoždění 11 minut u zastávky U4766Z2 (směr Praha,Vypich) zpožděný příjezd 20:46. vozidlo: 9982, zpoždění: 11, zastávka: U4766Z2, lat: 49.95722, lon: 14.052, směr: Praha,Vypich, kategorie: provoz, příjezd: 20:46:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 380,
+      "obeh": 1,
+      "vozidlo": 9982,
+      "zpozdeni": 11,
+      "zastavka": "U4766Z2",
+      "lat": 49.95722,
+      "lon": 14.052,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205731"
+    }
+  },
+  {
+    "id": "20260524_205731_L369",
+    "document": "Dne 24.05.2026 měla linka 369 / 73 zpoždění 12 minut u zastávky U1795Z1 (směr Štětí,záv.) zpožděný příjezd 20:44. vozidlo: 8272, zpoždění: 12, zastávka: U1795Z1, lat: 50.35886, lon: 14.47234, směr: Štětí,záv., kategorie: provoz, příjezd: 20:44:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 369,
+      "obeh": 73,
+      "vozidlo": 8272,
+      "zpozdeni": 12,
+      "zastavka": "U1795Z1",
+      "lat": 50.35886,
+      "lon": 14.47234,
+      "smer": "Štětí,záv.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:44:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205731"
+    }
+  },
+  {
+    "id": "20260524_205731_L400",
+    "document": "Dne 24.05.2026 měla linka 400 / 51 zpoždění 13 minut u zastávky U1792Z1 (směr Praha,Střížkov) zpožděný příjezd 20:42. vozidlo: 1089, zpoždění: 13, zastávka: U1792Z1, lat: 50.3341, lon: 14.49522, směr: Praha,Střížkov, kategorie: provoz, příjezd: 20:42:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 400,
+      "obeh": 51,
+      "vozidlo": 1089,
+      "zpozdeni": 13,
+      "zastavka": "U1792Z1",
+      "lat": 50.3341,
+      "lon": 14.49522,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205731"
+    }
+  }
+]

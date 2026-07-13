@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260515_212837_L136",
+    "document": "Dne 15.05.2026 měla linka 136 / 55 zpoždění 11 minut u zastávky U1074Z4P (směr Jižní Město) zpožděný příjezd 21:16. vozidlo: 6876, zpoždění: 11, zastávka: U1074Z4P, lat: 50.09117, lon: 14.4683, směr: Jižní Město, kategorie: provoz, příjezd: 21:16:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6876,
+      "zpozdeni": 11,
+      "zastavka": "U1074Z4P",
+      "lat": 50.09117,
+      "lon": 14.4683,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:16:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_212837"
+    }
+  },
+  {
+    "id": "20260515_212837_L345",
+    "document": "Dne 15.05.2026 měla linka 345 / 17 zpoždění 75 minut u zastávky U32718Z1 (směr Liberec,aut.nádr.) zpožděný příjezd 20:02. vozidlo: 1865, zpoždění: 75, zastávka: U32718Z1, lat: 50.73009, lon: 15.05532, směr: Liberec,aut.nádr., kategorie: provoz, příjezd: 20:02:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 345,
+      "obeh": 17,
+      "vozidlo": 1865,
+      "zpozdeni": 75,
+      "zastavka": "U32718Z1",
+      "lat": 50.73009,
+      "lon": 15.05532,
+      "smer": "Liberec,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:02:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 75,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_212837"
+    }
+  },
+  {
+    "id": "20260515_212837_L389",
+    "document": "Dne 15.05.2026 měla linka 389 / 10 zpoždění 23 minut u zastávky U32406Z12 (směr Chomutov,žel.st.) zpožděný příjezd 21:03. vozidlo: 7752, zpoždění: 23, zastávka: U32406Z12, lat: 50.4568, lon: 13.40074, směr: Chomutov,žel.st., kategorie: provoz, příjezd: 21:03:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 389,
+      "obeh": 10,
+      "vozidlo": 7752,
+      "zpozdeni": 23,
+      "zastavka": "U32406Z12",
+      "lat": 50.4568,
+      "lon": 13.40074,
+      "smer": "Chomutov,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:03:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 23,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_212837"
+    }
+  }
+]

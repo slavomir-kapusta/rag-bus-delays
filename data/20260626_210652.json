@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260626_210652_L315",
+    "document": "Dne 26.06.2026 měla linka 315 / 11 zpoždění 12 minut u zastávky U3254Z2 (směr Praha,Černý Most) zpožděný příjezd 20:54. vozidlo: 1861, zpoždění: 12, zastávka: U3254Z2, lat: 50.51775, lon: 14.97299, směr: Praha,Černý Most, kategorie: provoz, příjezd: 20:54:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 315,
+      "obeh": 11,
+      "vozidlo": 1861,
+      "zpozdeni": 12,
+      "zastavka": "U3254Z2",
+      "lat": 50.51775,
+      "lon": 14.97299,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:54:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_210652"
+    }
+  },
+  {
+    "id": "20260626_210652_L669",
+    "document": "Dne 26.06.2026 měla linka 669 / 27 zpoždění 20 minut u zastávky U1460Z1 (směr Mečeříž) zpožděný příjezd 20:43. vozidlo: 8007, zpoždění: 20, zastávka: U1460Z1, lat: 50.24557, lon: 14.65269, směr: Mečeříž, kategorie: provoz, příjezd: 20:43:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 669,
+      "obeh": 27,
+      "vozidlo": 8007,
+      "zpozdeni": 20,
+      "zastavka": "U1460Z1",
+      "lat": 50.24557,
+      "lon": 14.65269,
+      "smer": "Mečeříž",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 20,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_210652"
+    }
+  }
+]

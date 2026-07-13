@@ -1,0 +1,33 @@
+prot 
+{'last_position': 
+{'bearing': 130, 
+	'delay': {'actual': 73, 
+				'last_stop_arrival': 56, 
+				'last_stop_departure': None}, 
+				'is_canceled': None, 
+				'last_stop': {
+					'arrival_time': '2026-03-16T20:33:00+01:00', 
+					'departure_time': '2026-03-16T20:33:00+01:00', 'id': 'U751Z2P', 'sequence': 28}, 'next_stop': {'arrival_time': '2026-03-16T20:36:00+01:00', 'departure_time': '2026-03-16T20:36:00+01:00', 'id': 'U697Z2P', 'sequence': 29}, 'origin_timestamp': '2026-03-16T20:33:56+01:00', 'shape_dist_traveled': '11.792', 'speed': None, 'state_position': 'at_stop', 'tracking': True}, 'trip': {'agency_name': {'real': 'DP PRAHA', 'scheduled': 'DP PRAHA'}, 'cis': {'line_id': None, 'trip_number': None}, 'gtfs': {'route_id': 'L11', 'route_short_name': '11', 'route_type': 0, 'trip_headsign': 'Spořilov', 'trip_id': '11_9975_260302', 'trip_short_name': None}, 'origin_route_name': '11', 'sequence_id': 12, 'start_timestamp': '2026-03-16T19:57:00+01:00', 'vehicle_registration_number': 8468, 'vehicle_type': {'description_cs': 'tramvaj', 'description_en': 'tram', 'id': 2}, 'wheelchair_accessible': False, 'air_conditioned': False, 'usb_chargers': False}}
+
+trip_data {
+	'agency_name': {'real': 'DP PRAHA', 'scheduled': 'DP PRAHA'}, 
+	'cis': {'line_id': None, 'trip_number': None}, 
+	'gtfs': {
+		'route_id': 'L188', 
+		'route_short_name': '188', 
+		'route_type': 3, 
+		'trip_headsign': 'Želivského', 
+		'trip_id': '188_146_260105', 
+		'trip_short_name': None}, 
+		'origin_route_name': '188', 
+		
+		'sequence_id': 3, 
+		
+		'start_timestamp': '2026-03-16T20:02:00+01:00', 'vehicle_registration_number': 6917, 'vehicle_type': {'description_cs': 'autobus', 'description_en': 'bus', 'id': 3}, 'wheelchair_accessible': True, 'air_conditioned': False, 'usb_chargers': False}
+
+trip_data 
+'agency_name': {
+	'real': 'DP PRAHA', 
+	'scheduled': 'DP PRAHA'}, 
+'cis': {'line_id': None, 'trip_number': None}, 
+'gtfs': {'route_id': 'L11', 'route_short_name': '11', 'route_type': 0, 'trip_headsign': 'Spořilov', 'trip_id': '11_9975_260302', 'trip_short_name': None}, 'origin_route_name': '11', 'sequence_id': 12, 'start_timestamp': '2026-03-16T19:57:00+01:00', 'vehicle_registration_number': 8468, 'vehicle_type': {'description_cs': 'tramvaj', 'description_en': 'tram', 'id': 2}, 'wheelchair_accessible': False, 'air_conditioned': False, 'usb_chargers': False}

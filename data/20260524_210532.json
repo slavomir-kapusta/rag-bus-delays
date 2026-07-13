@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_210532_L383",
+    "document": "Dne 24.05.2026 měla linka 383 / 18 zpoždění 12 minut u zastávky U2089Z1 (směr Chocerady) zpožděný příjezd 20:49. vozidlo: 9174, zpoždění: 12, zastávka: U2089Z1, lat: 49.87661, lon: 14.79832, směr: Chocerady, kategorie: provoz, příjezd: 20:49:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 383,
+      "obeh": 18,
+      "vozidlo": 9174,
+      "zpozdeni": 12,
+      "zastavka": "U2089Z1",
+      "lat": 49.87661,
+      "lon": 14.79832,
+      "smer": "Chocerady",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:49:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_210532"
+    }
+  },
+  {
+    "id": "20260524_210532_L369",
+    "document": "Dne 24.05.2026 měla linka 369 / 73 zpoždění 11 minut u zastávky U3314Z1 (směr Štětí,záv.) zpožděný příjezd 20:53. vozidlo: 8272, zpoždění: 11, zastávka: U3314Z1, lat: 50.39939, lon: 14.45442, směr: Štětí,záv., kategorie: provoz, příjezd: 20:53:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 369,
+      "obeh": 73,
+      "vozidlo": 8272,
+      "zpozdeni": 11,
+      "zastavka": "U3314Z1",
+      "lat": 50.39939,
+      "lon": 14.45442,
+      "smer": "Štětí,záv.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:53:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_210532"
+    }
+  },
+  {
+    "id": "20260524_210532_L380",
+    "document": "Dne 24.05.2026 měla linka 380 / 1 zpoždění 11 minut u zastávky U4273Z1 (směr Praha,Vypich) zpožděný příjezd 20:54. vozidlo: 9982, zpoždění: 11, zastávka: U4273Z1, lat: 49.97, lon: 14.08179, směr: Praha,Vypich, kategorie: provoz, příjezd: 20:54:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 380,
+      "obeh": 1,
+      "vozidlo": 9982,
+      "zpozdeni": 11,
+      "zastavka": "U4273Z1",
+      "lat": 49.97,
+      "lon": 14.08179,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:54:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_210532"
+    }
+  }
+]

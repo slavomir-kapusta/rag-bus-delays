@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_213514_L136",
+    "document": "Dne 06.07.2026 měla linka 136 / 55 zpoždění 10 minut u zastávky U118Z4P (směr Jižní Město) zpožděný příjezd 21:25. vozidlo: 6880, zpoždění: 10, zastávka: U118Z4P, lat: 50.07923, lon: 14.46055, směr: Jižní Město, kategorie: provoz, příjezd: 21:25:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6880,
+      "zpozdeni": 10,
+      "zastavka": "U118Z4P",
+      "lat": 50.07923,
+      "lon": 14.46055,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:25:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_213514"
+    }
+  }
+]

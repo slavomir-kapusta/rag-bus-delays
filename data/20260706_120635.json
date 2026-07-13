@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_120635_L416",
+    "document": "Dne 06.07.2026 měla linka 416 / 18 zpoždění 17 minut u zastávky U32324Z2 (směr Praha,Smíchovské nádraží) zpožděný příjezd 11:49. vozidlo: 7209, zpoždění: 17, zastávka: U32324Z2, lat: 49.41021, lon: 13.98907, směr: Praha,Smíchovské nádraží, kategorie: provoz, příjezd: 11:49:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 416,
+      "obeh": 18,
+      "vozidlo": 7209,
+      "zpozdeni": 17,
+      "zastavka": "U32324Z2",
+      "lat": 49.41021,
+      "lon": 13.98907,
+      "smer": "Praha,Smíchovské nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:49:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 17,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_120635"
+    }
+  }
+]

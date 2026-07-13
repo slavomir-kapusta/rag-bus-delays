@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_212850_L801",
+    "document": "Dne 16.06.2026 měla linka 801 / 2 zpoždění 10 minut u zastávky U2481Z2 (směr Kutná Hora,Žižkov,poliklinika) zpožděný příjezd 21:16. vozidlo: 1827, zpoždění: 10, zastávka: U2481Z2, lat: 49.95243, lon: 15.26846, směr: Kutná Hora,Žižkov,poliklinika, kategorie: provoz, příjezd: 21:16:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 801,
+      "obeh": 2,
+      "vozidlo": 1827,
+      "zpozdeni": 10,
+      "zastavka": "U2481Z2",
+      "lat": 49.95243,
+      "lon": 15.26846,
+      "smer": "Kutná Hora,Žižkov,poliklinika",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:16:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_212850"
+    }
+  }
+]

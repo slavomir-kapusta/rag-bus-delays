@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260626_231501_L381",
+    "document": "Dne 26.06.2026 měla linka 381 / 1 zpoždění 10 minut u zastávky U2166Z1 (směr Čáslav,aut.st.) zpožděný příjezd 23:04. vozidlo: 9372, zpoždění: 10, zastávka: U2166Z1, lat: 49.95873, lon: 15.02864, směr: Čáslav,aut.st., kategorie: provoz, příjezd: 23:04:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 381,
+      "obeh": 1,
+      "vozidlo": 9372,
+      "zpozdeni": 10,
+      "zastavka": "U2166Z1",
+      "lat": 49.95873,
+      "lon": 15.02864,
+      "smer": "Čáslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:04:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_231501"
+    }
+  },
+  {
+    "id": "20260626_231501_L670",
+    "document": "Dne 26.06.2026 měla linka 670 / 16 zpoždění 10 minut u zastávky U1468Z2 (směr Brandýs n.L.-St.Bol.,aut.st.) zpožděný příjezd 23:04. vozidlo: 8072, zpoždění: 10, zastávka: U1468Z2, lat: 50.23711, lon: 14.70052, směr: Brandýs n.L.-St.Bol.,aut.st., kategorie: provoz, příjezd: 23:04:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 670,
+      "obeh": 16,
+      "vozidlo": 8072,
+      "zpozdeni": 10,
+      "zastavka": "U1468Z2",
+      "lat": 50.23711,
+      "lon": 14.70052,
+      "smer": "Brandýs n.L.-St.Bol.,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:04:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_231501"
+    }
+  }
+]

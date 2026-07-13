@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_105427_L416",
+    "document": "Dne 06.07.2026 měla linka 416 / 18 zpoždění 12 minut u zastávky U32285Z2 (směr Praha,Smíchovské nádraží) zpožděný příjezd 10:42. vozidlo: 7209, zpoždění: 12, zastávka: U32285Z2, lat: 49.24598, lon: 13.53918, směr: Praha,Smíchovské nádraží, kategorie: provoz, příjezd: 10:42:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 416,
+      "obeh": 18,
+      "vozidlo": 7209,
+      "zpozdeni": 12,
+      "zastavka": "U32285Z2",
+      "lat": 49.24598,
+      "lon": 13.53918,
+      "smer": "Praha,Smíchovské nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "10:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 12,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_105427"
+    }
+  },
+  {
+    "id": "20260706_105427_L300",
+    "document": "Dne 06.07.2026 měla linka 300 / 3 zpoždění 10 minut u zastávky U80Z3 (směr Libušín,náměstí) zpožděný příjezd 10:41. vozidlo: 8996, zpoždění: 10, zastávka: U80Z3, lat: 50.11876, lon: 14.27912, směr: Libušín,náměstí, kategorie: provoz, příjezd: 10:41:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 300,
+      "obeh": 3,
+      "vozidlo": 8996,
+      "zpozdeni": 10,
+      "zastavka": "U80Z3",
+      "lat": 50.11876,
+      "lon": 14.27912,
+      "smer": "Libušín,náměstí",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "10:41:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 10,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_105427"
+    }
+  },
+  {
+    "id": "20260706_105427_L430",
+    "document": "Dne 06.07.2026 měla linka 430 / 62 zpoždění 13 minut u zastávky U1492Z2 (směr Milovice,žel.st.) zpožděný příjezd 10:37. vozidlo: 8561, zpoždění: 13, zastávka: U1492Z2, lat: 50.23046, lon: 14.8828, směr: Milovice,žel.st., kategorie: provoz, příjezd: 10:37:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 430,
+      "obeh": 62,
+      "vozidlo": 8561,
+      "zpozdeni": 13,
+      "zastavka": "U1492Z2",
+      "lat": 50.23046,
+      "lon": 14.8828,
+      "smer": "Milovice,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "10:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 13,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_105427"
+    }
+  }
+]

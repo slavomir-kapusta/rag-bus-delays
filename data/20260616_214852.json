@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_214852_L136",
+    "document": "Dne 16.06.2026 měla linka 136 / 55 zpoždění 10 minut u zastávky U697Z3P (směr Jižní Město) zpožděný příjezd 21:38. vozidlo: 6874, zpoždění: 10, zastávka: U697Z3P, lat: 50.0482, lon: 14.48137, směr: Jižní Město, kategorie: provoz, příjezd: 21:38:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6874,
+      "zpozdeni": 10,
+      "zastavka": "U697Z3P",
+      "lat": 50.0482,
+      "lon": 14.48137,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:38:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_214852"
+    }
+  }
+]

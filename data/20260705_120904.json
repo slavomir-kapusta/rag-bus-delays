@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260705_120904_L641",
+    "document": "Dne 05.07.2026 měla linka 641 / 4 zpoždění 10 minut u zastávky U9854Z2 (směr Hořovice,nemocnice) zpožděný příjezd 11:57. vozidlo: 9586, zpoždění: 10, zastávka: U9854Z2, lat: 49.89038, lon: 13.95626, směr: Hořovice,nemocnice, kategorie: provoz, příjezd: 11:57:00",
+    "metadata": {
+      "den": "05.07.2026",
+      "linka": 641,
+      "obeh": 4,
+      "vozidlo": 9586,
+      "zpozdeni": 10,
+      "zastavka": "U9854Z2",
+      "lat": 49.89038,
+      "lon": 13.95626,
+      "smer": "Hořovice,nemocnice",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:57:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 10,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 05.07.2026?",
+      "timestamp": "20260705_120904"
+    }
+  }
+]

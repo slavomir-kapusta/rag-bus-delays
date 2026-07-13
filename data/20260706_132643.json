@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_132643_L720",
+    "document": "Dne 06.07.2026 měla linka 720 / 10 zpoždění 11 minut u zastávky U31207Z1 (směr Rokytnice n.Jiz.,Horní Rokytnice) zpožděný příjezd 13:15. vozidlo: 10271, zpoždění: 11, zastávka: U31207Z1, lat: 50.72925, lon: 15.45161, směr: Rokytnice n.Jiz.,Horní Rokytnice, kategorie: provoz, příjezd: 13:15:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 720,
+      "obeh": 10,
+      "vozidlo": 10271,
+      "zpozdeni": 11,
+      "zastavka": "U31207Z1",
+      "lat": 50.72925,
+      "lon": 15.45161,
+      "smer": "Rokytnice n.Jiz.,Horní Rokytnice",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "13:15:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 11,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_132643"
+    }
+  }
+]

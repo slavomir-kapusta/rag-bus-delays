@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260514_205608_L412",
+    "document": "Dne 14.05.2026 měla linka 412 / 43 zpoždění 120 minut u zastávky U31001Z2 (směr Sobotka,nám.) zpožděný příjezd 18:53. vozidlo: 9917, zpoždění: 120, zastávka: U31001Z2, lat: 50.46722, lon: 15.18172, směr: Sobotka,nám., kategorie: provoz, příjezd: 18:53:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 412,
+      "obeh": 43,
+      "vozidlo": 9917,
+      "zpozdeni": 120,
+      "zastavka": "U31001Z2",
+      "lat": 50.46722,
+      "lon": 15.18172,
+      "smer": "Sobotka,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "18:53:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 120,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_205608"
+    }
+  },
+  {
+    "id": "20260514_205608_L550",
+    "document": "Dne 14.05.2026 měla linka 550 / 78 zpoždění 36 minut u zastávky U6757Z1 (směr Vlašim,žel.st.) zpožděný příjezd 20:18. vozidlo: 7839, zpoždění: 36, zastávka: U6757Z1, lat: 49.7032, lon: 14.89417, směr: Vlašim,žel.st., kategorie: provoz, příjezd: 20:18:00",
+    "metadata": {
+      "den": "14.05.2026",
+      "linka": 550,
+      "obeh": 78,
+      "vozidlo": 7839,
+      "zpozdeni": 36,
+      "zastavka": "U6757Z1",
+      "lat": 49.7032,
+      "lon": 14.89417,
+      "smer": "Vlašim,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:18:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 36,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 14.05.2026?",
+      "timestamp": "20260514_205608"
+    }
+  }
+]

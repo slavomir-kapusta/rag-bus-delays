@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260626_211853_L246",
+    "document": "Dne 26.06.2026 měla linka 246 / 5 zpoždění 10 minut u zastávky U608Z2P (směr Zličín) zpožděný příjezd 21:05. vozidlo: 3857, zpoždění: 10, zastávka: U608Z2P, lat: 49.98583, lon: 14.3572, směr: Zličín, kategorie: provoz, příjezd: 21:05:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 246,
+      "obeh": 5,
+      "vozidlo": 3857,
+      "zpozdeni": 10,
+      "zastavka": "U608Z2P",
+      "lat": 49.98583,
+      "lon": 14.3572,
+      "smer": "Zličín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:05:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_211853"
+    }
+  },
+  {
+    "id": "20260626_211853_L315",
+    "document": "Dne 26.06.2026 měla linka 315 / 11 zpoždění 15 minut u zastávky U9475Z2 (směr Praha,Černý Most) zpožděný příjezd 21:03. vozidlo: 1861, zpoždění: 15, zastávka: U9475Z2, lat: 50.47648, lon: 14.93834, směr: Praha,Černý Most, kategorie: provoz, příjezd: 21:03:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 315,
+      "obeh": 11,
+      "vozidlo": 1861,
+      "zpozdeni": 15,
+      "zastavka": "U9475Z2",
+      "lat": 50.47648,
+      "lon": 14.93834,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:03:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_211853"
+    }
+  },
+  {
+    "id": "20260626_211853_L412",
+    "document": "Dne 26.06.2026 měla linka 412 / 42 zpoždění 10 minut u zastávky U31002Z1 (směr Jičín,aut.st.) zpožděný příjezd 21:07. vozidlo: 9909, zpoždění: 10, zastávka: U31002Z1, lat: 50.45996, lon: 15.21101, směr: Jičín,aut.st., kategorie: provoz, příjezd: 21:07:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 412,
+      "obeh": 42,
+      "vozidlo": 9909,
+      "zpozdeni": 10,
+      "zastavka": "U31002Z1",
+      "lat": 50.45996,
+      "lon": 15.21101,
+      "smer": "Jičín,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:07:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_211853"
+    }
+  }
+]

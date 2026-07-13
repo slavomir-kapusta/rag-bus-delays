@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260617_201714_L714",
+    "document": "Dne 17.06.2026 měla linka 714 / 11 zpoždění 29 minut u zastávky U6301Z1 (směr Dobšín) zpožděný příjezd 19:48. vozidlo: 1816, zpoždění: 29, zastávka: U6301Z1, lat: 50.49, lon: 15.11169, směr: Dobšín, kategorie: provoz, příjezd: 19:48:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 714,
+      "obeh": 11,
+      "vozidlo": 1816,
+      "zpozdeni": 29,
+      "zastavka": "U6301Z1",
+      "lat": 50.49,
+      "lon": 15.11169,
+      "smer": "Dobšín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:48:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 29,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_201714"
+    }
+  },
+  {
+    "id": "20260617_201714_L400",
+    "document": "Dne 17.06.2026 měla linka 400 / 58 zpoždění 11 minut u zastávky U31352Z1 (směr Rumburk,žel.st.) zpožděný příjezd 20:06. vozidlo: 1084, zpoždění: 11, zastávka: U31352Z1, lat: 50.62786, lon: 14.53554, směr: Rumburk,žel.st., kategorie: provoz, příjezd: 20:06:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 400,
+      "obeh": 58,
+      "vozidlo": 1084,
+      "zpozdeni": 11,
+      "zastavka": "U31352Z1",
+      "lat": 50.62786,
+      "lon": 14.53554,
+      "smer": "Rumburk,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:06:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_201714"
+    }
+  },
+  {
+    "id": "20260617_201714_L311",
+    "document": "Dne 17.06.2026 měla linka 311 / 74 zpoždění 16 minut u zastávky U1601Z1 (směr Řevnice,nádraží) zpožděný příjezd 20:00. vozidlo: 9597, zpoždění: 16, zastávka: U1601Z1, lat: 49.91799, lon: 14.24507, směr: Řevnice,nádraží, kategorie: provoz, příjezd: 20:00:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 311,
+      "obeh": 74,
+      "vozidlo": 9597,
+      "zpozdeni": 16,
+      "zastavka": "U1601Z1",
+      "lat": 49.91799,
+      "lon": 14.24507,
+      "smer": "Řevnice,nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:00:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 16,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_201714"
+    }
+  }
+]

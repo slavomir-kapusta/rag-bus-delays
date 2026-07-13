@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_225120_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 59 zpoždění 15 minut u zastávky U31361Z1 (směr Varnsdorf,aut.nádr.) zpožděný příjezd 22:34. vozidlo: 1083, zpoždění: 15, zastávka: U31361Z1, lat: 50.76595, lon: 14.54231, směr: Varnsdorf,aut.nádr., kategorie: provoz, příjezd: 22:34:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 59,
+      "vozidlo": 1083,
+      "zpozdeni": 15,
+      "zastavka": "U31361Z1",
+      "lat": 50.76595,
+      "lon": 14.54231,
+      "smer": "Varnsdorf,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:34:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_225120"
+    }
+  },
+  {
+    "id": "20260706_225120_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 53 zpoždění 12 minut u zastávky U6078Z1 (směr Nový Bor,aut.nádr.) zpožděný příjezd 22:38. vozidlo: 1087, zpoždění: 12, zastávka: U6078Z1, lat: 50.50315, lon: 14.48627, směr: Nový Bor,aut.nádr., kategorie: provoz, příjezd: 22:38:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 53,
+      "vozidlo": 1087,
+      "zpozdeni": 12,
+      "zastavka": "U6078Z1",
+      "lat": 50.50315,
+      "lon": 14.48627,
+      "smer": "Nový Bor,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:38:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_225120"
+    }
+  }
+]

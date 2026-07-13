@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260626_214254_L136",
+    "document": "Dne 26.06.2026 měla linka 136 / 55 zpoždění 15 minut u zastávky U855Z1P (směr Jižní Město) zpožděný příjezd 21:28. vozidlo: 6889, zpoždění: 15, zastávka: U855Z1P, lat: 50.07459, lon: 14.4628, směr: Jižní Město, kategorie: provoz, příjezd: 21:28:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6889,
+      "zpozdeni": 15,
+      "zastavka": "U855Z1P",
+      "lat": 50.07459,
+      "lon": 14.4628,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:28:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214254"
+    }
+  },
+  {
+    "id": "20260626_214254_L315",
+    "document": "Dne 26.06.2026 měla linka 315 / 11 zpoždění 17 minut u zastávky U2987Z8 (směr Praha,Černý Most) zpožděný příjezd 21:25. vozidlo: 1861, zpoždění: 17, zastávka: U2987Z8, lat: 50.41951, lon: 14.91632, směr: Praha,Černý Most, kategorie: provoz, příjezd: 21:25:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 315,
+      "obeh": 11,
+      "vozidlo": 1861,
+      "zpozdeni": 17,
+      "zastavka": "U2987Z8",
+      "lat": 50.41951,
+      "lon": 14.91632,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:25:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 17,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214254"
+    }
+  },
+  {
+    "id": "20260626_214254_L639",
+    "document": "Dne 26.06.2026 měla linka 639 / 13 zpoždění 11 minut u zastávky U9781Z2 (směr Hořovice,nám.B.Němcové) zpožděný příjezd 21:30. vozidlo: 9546, zpoždění: 11, zastávka: U9781Z2, lat: 49.83687, lon: 13.9108, směr: Hořovice,nám.B.Němcové, kategorie: provoz, příjezd: 21:30:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 639,
+      "obeh": 13,
+      "vozidlo": 9546,
+      "zpozdeni": 11,
+      "zastavka": "U9781Z2",
+      "lat": 49.83687,
+      "lon": 13.9108,
+      "smer": "Hořovice,nám.B.Němcové",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_214254"
+    }
+  }
+]

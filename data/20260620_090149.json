@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260620_090149_L360",
+    "document": "Dne 20.06.2026 měla linka 360 / 5 zpoždění 11 minut u zastávky U392Z2 (směr Sedlčany,aut.st.) zpožděný příjezd 08:49. vozidlo: 7208, zpoždění: 11, zastávka: U392Z2, lat: 49.96812, lon: 14.39431, směr: Sedlčany,aut.st., kategorie: provoz, příjezd: 08:49:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 360,
+      "obeh": 5,
+      "vozidlo": 7208,
+      "zpozdeni": 11,
+      "zastavka": "U392Z2",
+      "lat": 49.96812,
+      "lon": 14.39431,
+      "smer": "Sedlčany,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:49:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 11,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_090149"
+    }
+  }
+]

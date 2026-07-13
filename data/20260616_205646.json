@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260616_205646_L536",
+    "document": "Dne 16.06.2026 měla linka 536 / 25 zpoždění 15 minut u zastávky U6602Z1 (směr Žiželice,nám.) zpožděný příjezd 20:39. vozidlo: 7593, zpoždění: 15, zastávka: U6602Z1, lat: 50.11492, lon: 15.40442, směr: Žiželice,nám., kategorie: provoz, příjezd: 20:39:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 536,
+      "obeh": 25,
+      "vozidlo": 7593,
+      "zpozdeni": 15,
+      "zastavka": "U6602Z1",
+      "lat": 50.11492,
+      "lon": 15.40442,
+      "smer": "Žiželice,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:39:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_205646"
+    }
+  },
+  {
+    "id": "20260616_205646_L375",
+    "document": "Dne 16.06.2026 měla linka 375 / 2 zpoždění 10 minut u zastávky U474Z7 (směr Praha,Českomoravská) zpožděný příjezd 20:46. vozidlo: 8297, zpoždění: 10, zastávka: U474Z7, lat: 50.10822, lon: 14.5018, směr: Praha,Českomoravská, kategorie: provoz, příjezd: 20:46:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 375,
+      "obeh": 2,
+      "vozidlo": 8297,
+      "zpozdeni": 10,
+      "zastavka": "U474Z7",
+      "lat": 50.10822,
+      "lon": 14.5018,
+      "smer": "Praha,Českomoravská",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_205646"
+    }
+  },
+  {
+    "id": "20260616_205646_L686",
+    "document": "Dne 16.06.2026 měla linka 686 / 33 zpoždění 10 minut u zastávky U2315Z1 (směr Úvaly,žel.st.) zpožděný příjezd 20:43. vozidlo: 8144, zpoždění: 10, zastávka: U2315Z1, lat: 50.07421, lon: 14.72303, směr: Úvaly,žel.st., kategorie: provoz, příjezd: 20:43:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 686,
+      "obeh": 33,
+      "vozidlo": 8144,
+      "zpozdeni": 10,
+      "zastavka": "U2315Z1",
+      "lat": 50.07421,
+      "lon": 14.72303,
+      "smer": "Úvaly,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_205646"
+    }
+  }
+]

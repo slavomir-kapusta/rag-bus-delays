@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260524_210932_L380",
+    "document": "Dne 24.05.2026 měla linka 380 / 1 zpoždění 10 minut u zastávky U2373Z2 (směr Praha,Vypich) zpožděný příjezd 20:59. vozidlo: 9982, zpoždění: 10, zastávka: U2373Z2, lat: 49.983, lon: 14.12565, směr: Praha,Vypich, kategorie: provoz, příjezd: 20:59:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 380,
+      "obeh": 1,
+      "vozidlo": 9982,
+      "zpozdeni": 10,
+      "zastavka": "U2373Z2",
+      "lat": 49.983,
+      "lon": 14.12565,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:59:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_210932"
+    }
+  },
+  {
+    "id": "20260524_210932_L369",
+    "document": "Dne 24.05.2026 měla linka 369 / 73 zpoždění 10 minut u zastávky U3317Z1 (směr Štětí,záv.) zpožděný příjezd 20:58. vozidlo: 8272, zpoždění: 10, zastávka: U3317Z1, lat: 50.4178, lon: 14.43304, směr: Štětí,záv., kategorie: provoz, příjezd: 20:58:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 369,
+      "obeh": 73,
+      "vozidlo": 8272,
+      "zpozdeni": 10,
+      "zastavka": "U3317Z1",
+      "lat": 50.4178,
+      "lon": 14.43304,
+      "smer": "Štětí,záv.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:58:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_210932"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_114233_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 51 zpoždění 13 minut u zastávky U6070Z2 (směr Praha,Střížkov) zpožděný příjezd 11:27. vozidlo: 1082, zpoždění: 13, zastávka: U6070Z2, lat: 50.42502, lon: 14.46402, směr: Praha,Střížkov, kategorie: provoz, příjezd: 11:27:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 51,
+      "vozidlo": 1082,
+      "zpozdeni": 13,
+      "zastavka": "U6070Z2",
+      "lat": 50.42502,
+      "lon": 14.46402,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:27:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 13,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_114233"
+    }
+  },
+  {
+    "id": "20260706_114233_L695",
+    "document": "Dne 06.07.2026 měla linka 695 / 2 zpoždění 11 minut u zastávky U6098Z1 (směr Mšeno,žel.st.) zpožděný příjezd 11:31. vozidlo: 1362, zpoždění: 11, zastávka: U6098Z1, lat: 50.46349, lon: 14.61867, směr: Mšeno,žel.st., kategorie: provoz, příjezd: 11:31:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 695,
+      "obeh": 2,
+      "vozidlo": 1362,
+      "zpozdeni": 11,
+      "zastavka": "U6098Z1",
+      "lat": 50.46349,
+      "lon": 14.61867,
+      "smer": "Mšeno,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:31:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 11,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_114233"
+    }
+  }
+]

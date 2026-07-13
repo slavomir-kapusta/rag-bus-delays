@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_205331_L369",
+    "document": "Dne 24.05.2026 měla linka 369 / 73 zpoždění 12 minut u zastávky U1793Z3 (směr Štětí,záv.) zpožděný příjezd 20:40. vozidlo: 8272, zpoždění: 12, zastávka: U1793Z3, lat: 50.35027, lon: 14.48709, směr: Štětí,záv., kategorie: provoz, příjezd: 20:40:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 369,
+      "obeh": 73,
+      "vozidlo": 8272,
+      "zpozdeni": 12,
+      "zastavka": "U1793Z3",
+      "lat": 50.35027,
+      "lon": 14.48709,
+      "smer": "Štětí,záv.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:40:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205331"
+    }
+  },
+  {
+    "id": "20260524_205331_L380",
+    "document": "Dne 24.05.2026 měla linka 380 / 4 zpoždění 10 minut u zastávky U1646Z1 (směr Králův Dvůr,Počaply,Obchodní centrum) zpožděný příjezd 20:43. vozidlo: 9983, zpoždění: 10, zastávka: U1646Z1, lat: 50.03712, lon: 14.23992, směr: Králův Dvůr,Počaply,Obchodní centrum, kategorie: provoz, příjezd: 20:43:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 380,
+      "obeh": 4,
+      "vozidlo": 9983,
+      "zpozdeni": 10,
+      "zastavka": "U1646Z1",
+      "lat": 50.03712,
+      "lon": 14.23992,
+      "smer": "Králův Dvůr,Počaply,Obchodní centrum",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205331"
+    }
+  },
+  {
+    "id": "20260524_205331_L400",
+    "document": "Dne 24.05.2026 měla linka 400 / 51 zpoždění 13 minut u zastávky U1793Z1 (směr Praha,Střížkov) zpožděný příjezd 20:37. vozidlo: 1089, zpoždění: 13, zastávka: U1793Z1, lat: 50.35016, lon: 14.48868, směr: Praha,Střížkov, kategorie: provoz, příjezd: 20:37:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 400,
+      "obeh": 51,
+      "vozidlo": 1089,
+      "zpozdeni": 13,
+      "zastavka": "U1793Z1",
+      "lat": 50.35016,
+      "lon": 14.48868,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_205331"
+    }
+  }
+]

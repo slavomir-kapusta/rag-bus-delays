@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260515_220840_L333",
+    "document": "Dne 15.05.2026 měla linka 333 / 2 zpoždění 10 minut u zastávky U4820Z2 (směr Březová-Oleško,Oleško) zpožděný příjezd 21:57. vozidlo: 7419, zpoždění: 10, zastávka: U4820Z2, lat: 49.95888, lon: 14.44024, směr: Březová-Oleško,Oleško, kategorie: provoz, příjezd: 21:57:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 333,
+      "obeh": 2,
+      "vozidlo": 7419,
+      "zpozdeni": 10,
+      "zastavka": "U4820Z2",
+      "lat": 49.95888,
+      "lon": 14.44024,
+      "smer": "Březová-Oleško,Oleško",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:57:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_220840"
+    }
+  },
+  {
+    "id": "20260515_220840_L354",
+    "document": "Dne 15.05.2026 měla linka 354 / 12 zpoždění 21 minut u zastávky U2451Z1 (směr Jirny,LE&CO) zpožděný příjezd 21:45. vozidlo: 1681, zpoždění: 21, zastávka: U2451Z1, lat: 50.12168, lon: 14.68318, směr: Jirny,LE&CO, kategorie: provoz, příjezd: 21:45:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 354,
+      "obeh": 12,
+      "vozidlo": 1681,
+      "zpozdeni": 21,
+      "zastavka": "U2451Z1",
+      "lat": 50.12168,
+      "lon": 14.68318,
+      "smer": "Jirny,LE&CO",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:45:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 21,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_220840"
+    }
+  },
+  {
+    "id": "20260515_220840_L686",
+    "document": "Dne 15.05.2026 měla linka 686 / 33 zpoždění 23 minut u zastávky U2315Z1 (směr Úvaly,žel.st.) zpožděný příjezd 21:43. vozidlo: 8142, zpoždění: 23, zastávka: U2315Z1, lat: 50.07421, lon: 14.72303, směr: Úvaly,žel.st., kategorie: provoz, příjezd: 21:43:00",
+    "metadata": {
+      "den": "15.05.2026",
+      "linka": 686,
+      "obeh": 33,
+      "vozidlo": 8142,
+      "zpozdeni": 23,
+      "zastavka": "U2315Z1",
+      "lat": 50.07421,
+      "lon": 14.72303,
+      "smer": "Úvaly,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 23,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 15.05.2026?",
+      "timestamp": "20260515_220840"
+    }
+  }
+]

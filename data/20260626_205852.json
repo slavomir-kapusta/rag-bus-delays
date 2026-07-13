@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260626_205852_L315",
+    "document": "Dne 26.06.2026 měla linka 315 / 9 zpoždění 11 minut u zastávky U3379Z2 (směr Tuřice) zpožděný příjezd 20:45. vozidlo: 8669, zpoždění: 11, zastávka: U3379Z2, lat: 50.28425, lon: 14.8293, směr: Tuřice, kategorie: provoz, příjezd: 20:45:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 315,
+      "obeh": 9,
+      "vozidlo": 8669,
+      "zpozdeni": 11,
+      "zastavka": "U3379Z2",
+      "lat": 50.28425,
+      "lon": 14.8293,
+      "smer": "Tuřice",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:45:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_205852"
+    }
+  },
+  {
+    "id": "20260626_205852_L412",
+    "document": "Dne 26.06.2026 měla linka 412 / 42 zpoždění 12 minut u zastávky U9359Z1 (směr Jičín,aut.st.) zpožděný příjezd 20:45. vozidlo: 9909, zpoždění: 12, zastávka: U9359Z1, lat: 50.4105, lon: 14.97627, směr: Jičín,aut.st., kategorie: provoz, příjezd: 20:45:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 412,
+      "obeh": 42,
+      "vozidlo": 9909,
+      "zpozdeni": 12,
+      "zastavka": "U9359Z1",
+      "lat": 50.4105,
+      "lon": 14.97627,
+      "smer": "Jičín,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:45:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_205852"
+    }
+  },
+  {
+    "id": "20260626_205852_L669",
+    "document": "Dne 26.06.2026 měla linka 669 / 27 zpoždění 14 minut u zastávky U1460Z1 (směr Mečeříž) zpožděný příjezd 20:43. vozidlo: 8007, zpoždění: 14, zastávka: U1460Z1, lat: 50.24557, lon: 14.65269, směr: Mečeříž, kategorie: provoz, příjezd: 20:43:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 669,
+      "obeh": 27,
+      "vozidlo": 8007,
+      "zpozdeni": 14,
+      "zastavka": "U1460Z1",
+      "lat": 50.24557,
+      "lon": 14.65269,
+      "smer": "Mečeříž",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:43:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_205852"
+    }
+  }
+]

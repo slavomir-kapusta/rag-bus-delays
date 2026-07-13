@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260524_201727_L315",
+    "document": "Dne 24.05.2026 měla linka 315 / 78 zpoždění 13 minut u zastávky U3383Z1 (směr Praha,Černý Most) zpožděný příjezd 20:02. vozidlo: 8670, zpoždění: 13, zastávka: U3383Z1, lat: 50.31218, lon: 14.8548, směr: Praha,Černý Most, kategorie: provoz, příjezd: 20:02:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 315,
+      "obeh": 78,
+      "vozidlo": 8670,
+      "zpozdeni": 13,
+      "zastavka": "U3383Z1",
+      "lat": 50.31218,
+      "lon": 14.8548,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:02:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_201727"
+    }
+  },
+  {
+    "id": "20260524_201727_L410",
+    "document": "Dne 24.05.2026 měla linka 410 / 6 zpoždění 17 minut u zastávky U6070Z1 (směr Doksy,aut.nádr.) zpožděný příjezd 20:00. vozidlo: 11696, zpoždění: 17, zastávka: U6070Z1, lat: 50.44528, lon: 14.47265, směr: Doksy,aut.nádr., kategorie: provoz, příjezd: 20:00:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 410,
+      "obeh": 6,
+      "vozidlo": 11696,
+      "zpozdeni": 17,
+      "zastavka": "U6070Z1",
+      "lat": 50.44528,
+      "lon": 14.47265,
+      "smer": "Doksy,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:00:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 17,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_201727"
+    }
+  }
+]

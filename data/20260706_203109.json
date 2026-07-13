@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_203109_L686",
+    "document": "Dne 06.07.2026 měla linka 686 / 88 zpoždění 15 minut u zastávky U2315Z1 (směr Úvaly,žel.st.) zpožděný příjezd 20:13. vozidlo: 8144, zpoždění: 15, zastávka: U2315Z1, lat: 50.07406, lon: 14.7232, směr: Úvaly,žel.st., kategorie: provoz, příjezd: 20:13:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 686,
+      "obeh": 88,
+      "vozidlo": 8144,
+      "zpozdeni": 15,
+      "zastavka": "U2315Z1",
+      "lat": 50.07406,
+      "lon": 14.7232,
+      "smer": "Úvaly,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:13:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_203109"
+    }
+  },
+  {
+    "id": "20260706_203109_L463",
+    "document": "Dne 06.07.2026 měla linka 463 / 56 zpoždění 10 minut u zastávky U9890Z2 (směr Mladá Boleslav,aut.st.) zpožděný příjezd 20:16. vozidlo: 9576, zpoždění: 10, zastávka: U9890Z2, lat: 50.32067, lon: 15.09667, směr: Mladá Boleslav,aut.st., kategorie: provoz, příjezd: 20:16:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 463,
+      "obeh": 56,
+      "vozidlo": 9576,
+      "zpozdeni": 10,
+      "zastavka": "U9890Z2",
+      "lat": 50.32067,
+      "lon": 15.09667,
+      "smer": "Mladá Boleslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:16:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_203109"
+    }
+  },
+  {
+    "id": "20260706_203109_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 51 zpoždění 10 minut u zastávky U6070Z2 (směr Praha,Střížkov) zpožděný příjezd 20:21. vozidlo: 1082, zpoždění: 10, zastávka: U6070Z2, lat: 50.44117, lon: 14.47431, směr: Praha,Střížkov, kategorie: provoz, příjezd: 20:21:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 51,
+      "vozidlo": 1082,
+      "zpozdeni": 10,
+      "zastavka": "U6070Z2",
+      "lat": 50.44117,
+      "lon": 14.47431,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:21:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_203109"
+    }
+  }
+]

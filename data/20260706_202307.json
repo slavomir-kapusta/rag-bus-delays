@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_202307_L377",
+    "document": "Dne 06.07.2026 měla linka 377 / 13 zpoždění 16 minut u zastávky U1248Z1 (směr Kostelec n.L.,Martinská) zpožděný příjezd 20:05. vozidlo: 1331, zpoždění: 16, zastávka: U1248Z1, lat: 50.22761, lon: 14.58783, směr: Kostelec n.L.,Martinská, kategorie: provoz, příjezd: 20:05:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 377,
+      "obeh": 13,
+      "vozidlo": 1331,
+      "zpozdeni": 16,
+      "zastavka": "U1248Z1",
+      "lat": 50.22761,
+      "lon": 14.58783,
+      "smer": "Kostelec n.L.,Martinská",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:05:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 16,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_202307"
+    }
+  },
+  {
+    "id": "20260706_202307_L463",
+    "document": "Dne 06.07.2026 měla linka 463 / 56 zpoždění 11 minut u zastávky U9885Z2 (směr Mladá Boleslav,aut.st.) zpožděný příjezd 20:09. vozidlo: 9576, zpoždění: 11, zastávka: U9885Z2, lat: 50.32278, lon: 15.15061, směr: Mladá Boleslav,aut.st., kategorie: provoz, příjezd: 20:09:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 463,
+      "obeh": 56,
+      "vozidlo": 9576,
+      "zpozdeni": 11,
+      "zastavka": "U9885Z2",
+      "lat": 50.32278,
+      "lon": 15.15061,
+      "smer": "Mladá Boleslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:09:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_202307"
+    }
+  },
+  {
+    "id": "20260706_202307_L410",
+    "document": "Dne 06.07.2026 měla linka 410 / 6 zpoždění 15 minut u zastávky U6078Z1 (směr Doksy,aut.nádr.) zpožděný příjezd 20:08. vozidlo: 11695, zpoždění: 15, zastávka: U6078Z1, lat: 50.49498, lon: 14.4871, směr: Doksy,aut.nádr., kategorie: provoz, příjezd: 20:08:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 410,
+      "obeh": 6,
+      "vozidlo": 11695,
+      "zpozdeni": 15,
+      "zastavka": "U6078Z1",
+      "lat": 50.49498,
+      "lon": 14.4871,
+      "smer": "Doksy,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:08:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 15,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_202307"
+    }
+  }
+]

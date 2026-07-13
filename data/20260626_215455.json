@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260626_215455_L136",
+    "document": "Dne 26.06.2026 měla linka 136 / 55 zpoždění 12 minut u zastávky U181Z1P (směr Jižní Město) zpožděný příjezd 21:42. vozidlo: 6889, zpoždění: 12, zastávka: U181Z1P, lat: 50.03947, lon: 14.49052, směr: Jižní Město, kategorie: provoz, příjezd: 21:42:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 136,
+      "obeh": 55,
+      "vozidlo": 6889,
+      "zpozdeni": 12,
+      "zastavka": "U181Z1P",
+      "lat": 50.03947,
+      "lon": 14.49052,
+      "smer": "Jižní Město",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_215455"
+    }
+  },
+  {
+    "id": "20260626_215455_L337",
+    "document": "Dne 26.06.2026 měla linka 337 / 12 zpoždění 10 minut u zastávky U1391Z1 (směr Benešov,Terminál) zpožděný příjezd 21:37. vozidlo: 9933, zpoždění: 10, zastávka: U1391Z1, lat: 49.79361, lon: 14.68019, směr: Benešov,Terminál, kategorie: provoz, příjezd: 21:37:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 337,
+      "obeh": 12,
+      "vozidlo": 9933,
+      "zpozdeni": 10,
+      "zastavka": "U1391Z1",
+      "lat": 49.79361,
+      "lon": 14.68019,
+      "smer": "Benešov,Terminál",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_215455"
+    }
+  },
+  {
+    "id": "20260626_215455_L754",
+    "document": "Dne 26.06.2026 měla linka 754 / 14 zpoždění 14 minut u zastávky U5882Z1 (směr Příbram,aut.nádr.) zpožděný příjezd 21:40. vozidlo: 7233, zpoždění: 14, zastávka: U5882Z1, lat: 49.76638, lon: 14.67626, směr: Příbram,aut.nádr., kategorie: provoz, příjezd: 21:40:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 754,
+      "obeh": 14,
+      "vozidlo": 7233,
+      "zpozdeni": 14,
+      "zastavka": "U5882Z1",
+      "lat": 49.76638,
+      "lon": 14.67626,
+      "smer": "Příbram,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:40:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 14,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_215455"
+    }
+  }
+]

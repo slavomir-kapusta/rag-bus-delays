@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260617_203315_L637",
+    "document": "Dne 17.06.2026 měla linka 637 / 74 zpoždění 12 minut u zastávky U9030Z1 (směr Liteň,nám.) zpožděný příjezd 20:19. vozidlo: 9597, zpoždění: 12, zastávka: U9030Z1, lat: 49.89101, lon: 14.19048, směr: Liteň,nám., kategorie: provoz, příjezd: 20:19:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 637,
+      "obeh": 74,
+      "vozidlo": 9597,
+      "zpozdeni": 12,
+      "zastavka": "U9030Z1",
+      "lat": 49.89101,
+      "lon": 14.19048,
+      "smer": "Liteň,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:19:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_203315"
+    }
+  },
+  {
+    "id": "20260617_203315_L400",
+    "document": "Dne 17.06.2026 měla linka 400 / 58 zpoždění 10 minut u zastávky U31355Z1 (směr Rumburk,žel.st.) zpožděný příjezd 20:23. vozidlo: 1084, zpoždění: 10, zastávka: U31355Z1, lat: 50.69437, lon: 14.54148, směr: Rumburk,žel.st., kategorie: provoz, příjezd: 20:23:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 400,
+      "obeh": 58,
+      "vozidlo": 1084,
+      "zpozdeni": 10,
+      "zastavka": "U31355Z1",
+      "lat": 50.69437,
+      "lon": 14.54148,
+      "smer": "Rumburk,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:23:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_203315"
+    }
+  },
+  {
+    "id": "20260617_203315_L384",
+    "document": "Dne 17.06.2026 měla linka 384 / 27 zpoždění 11 minut u zastávky U1746Z2 (směr Praha,Zličín) zpožděný příjezd 20:22. vozidlo: 9918, zpoždění: 11, zastávka: U1746Z2, lat: 49.9604, lon: 14.065, směr: Praha,Zličín, kategorie: provoz, příjezd: 20:22:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 384,
+      "obeh": 27,
+      "vozidlo": 9918,
+      "zpozdeni": 11,
+      "zastavka": "U1746Z2",
+      "lat": 49.9604,
+      "lon": 14.065,
+      "smer": "Praha,Zličín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:22:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_203315"
+    }
+  }
+]

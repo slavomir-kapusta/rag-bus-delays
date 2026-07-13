@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_213250_L639",
+    "document": "Dne 16.06.2026 měla linka 639 / 13 zpoždění 10 minut u zastávky U9850Z1 (směr Hořovice,nám.B.Němcové) zpožděný příjezd 21:21. vozidlo: 9546, zpoždění: 10, zastávka: U9850Z1, lat: 49.86516, lon: 13.993, směr: Hořovice,nám.B.Němcové, kategorie: provoz, příjezd: 21:21:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 639,
+      "obeh": 13,
+      "vozidlo": 9546,
+      "zpozdeni": 10,
+      "zastavka": "U9850Z1",
+      "lat": 49.86516,
+      "lon": 13.993,
+      "smer": "Hořovice,nám.B.Němcové",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:21:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_213250"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260626_224658_L339",
+    "document": "Dne 26.06.2026 měla linka 339 / 6 zpoždění 10 minut u zastávky U1532Z2 (směr Praha,Budějovická) zpožděný příjezd 22:36. vozidlo: 9131, zpoždění: 10, zastávka: U1532Z2, lat: 49.94725, lon: 14.54261, směr: Praha,Budějovická, kategorie: provoz, příjezd: 22:36:00",
+    "metadata": {
+      "den": "26.06.2026",
+      "linka": 339,
+      "obeh": 6,
+      "vozidlo": 9131,
+      "zpozdeni": 10,
+      "zastavka": "U1532Z2",
+      "lat": 49.94725,
+      "lon": 14.54261,
+      "smer": "Praha,Budějovická",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:36:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 26.06.2026?",
+      "timestamp": "20260626_224658"
+    }
+  }
+]

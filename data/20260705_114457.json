@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260705_114457_L402",
+    "document": "Dne 05.07.2026 měla linka 402 / 33 zpoždění 14 minut u zastávky U7057Z71 (směr Čáslav,aut.st.) zpožděný příjezd 11:30. vozidlo: 7599, zpoždění: 14, zastávka: U7057Z71, lat: 49.74296, lon: 15.10298, směr: Čáslav,aut.st., kategorie: provoz, příjezd: 11:30:00",
+    "metadata": {
+      "den": "05.07.2026",
+      "linka": 402,
+      "obeh": 33,
+      "vozidlo": 7599,
+      "zpozdeni": 14,
+      "zastavka": "U7057Z71",
+      "lat": 49.74296,
+      "lon": 15.10298,
+      "smer": "Čáslav,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 14,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 05.07.2026?",
+      "timestamp": "20260705_114457"
+    }
+  },
+  {
+    "id": "20260705_114457_L770",
+    "document": "Dne 05.07.2026 měla linka 770 / 20 zpoždění 17 minut u zastávky U7807Z2 (směr Benešov,Terminál) zpožděný příjezd 11:24. vozidlo: 7876, zpoždění: 17, zastávka: U7807Z2, lat: 49.80796, lon: 14.72425, směr: Benešov,Terminál, kategorie: provoz, příjezd: 11:24:00",
+    "metadata": {
+      "den": "05.07.2026",
+      "linka": 770,
+      "obeh": 20,
+      "vozidlo": 7876,
+      "zpozdeni": 17,
+      "zastavka": "U7807Z2",
+      "lat": 49.80796,
+      "lon": 14.72425,
+      "smer": "Benešov,Terminál",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:24:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 17,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 05.07.2026?",
+      "timestamp": "20260705_114457"
+    }
+  }
+]

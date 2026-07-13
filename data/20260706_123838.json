@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_123838_L387",
+    "document": "Dne 06.07.2026 měla linka 387 / 1 zpoždění 11 minut u zastávky U2010Z2 (směr Praha,Háje) zpožděný příjezd 12:27. vozidlo: 9368, zpoždění: 11, zastávka: U2010Z2, lat: 49.98836, lon: 14.76812, směr: Praha,Háje, kategorie: provoz, příjezd: 12:27:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 387,
+      "obeh": 1,
+      "vozidlo": 9368,
+      "zpozdeni": 11,
+      "zastavka": "U2010Z2",
+      "lat": 49.98836,
+      "lon": 14.76812,
+      "smer": "Praha,Háje",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "12:27:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 11,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_123838"
+    }
+  }
+]

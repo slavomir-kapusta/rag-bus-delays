@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_205246_L536",
+    "document": "Dne 16.06.2026 měla linka 536 / 25 zpoždění 13 minut u zastávky U6602Z1 (směr Žiželice,nám.) zpožděný příjezd 20:39. vozidlo: 7593, zpoždění: 13, zastávka: U6602Z1, lat: 50.11018, lon: 15.3874, směr: Žiželice,nám., kategorie: provoz, příjezd: 20:39:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 536,
+      "obeh": 25,
+      "vozidlo": 7593,
+      "zpozdeni": 13,
+      "zastavka": "U6602Z1",
+      "lat": 50.11018,
+      "lon": 15.3874,
+      "smer": "Žiželice,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:39:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_205246"
+    }
+  }
+]

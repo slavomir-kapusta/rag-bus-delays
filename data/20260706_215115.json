@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_215115_L650",
+    "document": "Dne 06.07.2026 měla linka 650 / 91 zpoždění 10 minut u zastávky U31427Z1 (směr Mšené-lázně,u kapličky) zpožděný příjezd 21:38. vozidlo: 12560, zpoždění: 10, zastávka: U31427Z1, lat: 50.40651, lon: 14.14123, směr: Mšené-lázně,u kapličky, kategorie: provoz, příjezd: 21:38:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 650,
+      "obeh": 91,
+      "vozidlo": 12560,
+      "zpozdeni": 10,
+      "zastavka": "U31427Z1",
+      "lat": 50.40651,
+      "lon": 14.14123,
+      "smer": "Mšené-lázně,u kapličky",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:38:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_215115"
+    }
+  }
+]

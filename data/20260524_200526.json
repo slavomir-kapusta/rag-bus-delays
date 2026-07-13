@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260524_200526_L410",
+    "document": "Dne 24.05.2026 měla linka 410 / 6 zpoždění 17 minut u zastávky U1795Z1 (směr Doksy,aut.nádr.) zpožděný příjezd 19:46. vozidlo: 11696, zpoždění: 17, zastávka: U1795Z1, lat: 50.36853, lon: 14.47852, směr: Doksy,aut.nádr., kategorie: provoz, příjezd: 19:46:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 410,
+      "obeh": 6,
+      "vozidlo": 11696,
+      "zpozdeni": 17,
+      "zastavka": "U1795Z1",
+      "lat": 50.36853,
+      "lon": 14.47852,
+      "smer": "Doksy,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 17,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_200526"
+    }
+  }
+]

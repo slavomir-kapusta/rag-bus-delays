@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260603_212242_L389",
+    "document": "Dne 03.06.2026 měla linka 389 / 10 zpoždění 18 minut u zastávky U32406Z12 (směr Chomutov,žel.st.) zpožděný příjezd 21:03. vozidlo: 7752, zpoždění: 18, zastávka: U32406Z12, lat: 50.4567, lon: 13.40043, směr: Chomutov,žel.st., kategorie: provoz, příjezd: 21:03:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 389,
+      "obeh": 10,
+      "vozidlo": 7752,
+      "zpozdeni": 18,
+      "zastavka": "U32406Z12",
+      "lat": 50.4567,
+      "lon": 13.40043,
+      "smer": "Chomutov,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:03:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 18,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_212242"
+    }
+  },
+  {
+    "id": "20260603_212242_L384",
+    "document": "Dne 03.06.2026 měla linka 384 / 17 zpoždění 10 minut u zastávky U9613Z2 (směr Hořovice,nám.B.Němcové) zpožděný příjezd 21:11. vozidlo: 9866, zpoždění: 10, zastávka: U9613Z2, lat: 49.85454, lon: 13.88907, směr: Hořovice,nám.B.Němcové, kategorie: provoz, příjezd: 21:11:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 384,
+      "obeh": 17,
+      "vozidlo": 9866,
+      "zpozdeni": 10,
+      "zastavka": "U9613Z2",
+      "lat": 49.85454,
+      "lon": 13.88907,
+      "smer": "Hořovice,nám.B.Němcové",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:11:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_212242"
+    }
+  },
+  {
+    "id": "20260603_212242_L550",
+    "document": "Dne 03.06.2026 měla linka 550 / 78 zpoždění 62 minut u zastávky U6757Z1 (směr Vlašim,žel.st.) zpožděný příjezd 20:18. vozidlo: 7894, zpoždění: 62, zastávka: U6757Z1, lat: 49.70083, lon: 14.89721, směr: Vlašim,žel.st., kategorie: provoz, příjezd: 20:18:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 550,
+      "obeh": 78,
+      "vozidlo": 7894,
+      "zpozdeni": 62,
+      "zastavka": "U6757Z1",
+      "lat": 49.70083,
+      "lon": 14.89721,
+      "smer": "Vlašim,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:18:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 62,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_212242"
+    }
+  }
+]

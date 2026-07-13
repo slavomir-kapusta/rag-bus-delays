@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260523_000013_L650",
+    "document": "Dne 22.05.2026 měla linka 650 / 22 zpoždění 33 minut u zastávky U31430Z1 (směr Mšené-lázně,U Kapličky) zpožděný příjezd 23:22. vozidlo: 12536, zpoždění: 33, zastávka: U31430Z1, lat: 50.36531, lon: 14.12489, směr: Mšené-lázně,U Kapličky, kategorie: provoz, příjezd: 23:22:00",
+    "metadata": {
+      "den": "22.05.2026",
+      "linka": 650,
+      "obeh": 22,
+      "vozidlo": 12536,
+      "zpozdeni": 33,
+      "zastavka": "U31430Z1",
+      "lat": 50.36531,
+      "lon": 14.12489,
+      "smer": "Mšené-lázně,U Kapličky",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:22:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 33,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 22.05.2026?",
+      "timestamp": "20260523_000013"
+    }
+  }
+]

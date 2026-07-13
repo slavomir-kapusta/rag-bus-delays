@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260620_090549_L246",
+    "document": "Dne 20.06.2026 měla linka 246 / 4 zpoždění 14 minut u zastávky U902Z4P (směr Zličín) zpožděný příjezd 08:50. vozidlo: 3913, zpoždění: 14, zastávka: U902Z4P, lat: 49.98294, lon: 14.39497, směr: Zličín, kategorie: provoz, příjezd: 08:50:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 246,
+      "obeh": 4,
+      "vozidlo": 3913,
+      "zpozdeni": 14,
+      "zastavka": "U902Z4P",
+      "lat": 49.98294,
+      "lon": 14.39497,
+      "smer": "Zličín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:50:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 14,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_090549"
+    }
+  },
+  {
+    "id": "20260620_090549_L844",
+    "document": "Dne 20.06.2026 měla linka 844 / 9 zpoždění 10 minut u zastávky U7622Z2 (směr Snět) zpožděný příjezd 08:52. vozidlo: 7889, zpoždění: 10, zastávka: U7622Z2, lat: 49.70652, lon: 15.00818, směr: Snět, kategorie: provoz, příjezd: 08:52:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 844,
+      "obeh": 9,
+      "vozidlo": 7889,
+      "zpozdeni": 10,
+      "zastavka": "U7622Z2",
+      "lat": 49.70652,
+      "lon": 15.00818,
+      "smer": "Snět",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:52:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 10,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_090549"
+    }
+  },
+  {
+    "id": "20260620_090549_L360",
+    "document": "Dne 20.06.2026 měla linka 360 / 5 zpoždění 11 minut u zastávky U716Z1 (směr Sedlčany,aut.st.) zpožděný příjezd 08:55. vozidlo: 7208, zpoždění: 11, zastávka: U716Z1, lat: 49.94239, lon: 14.39138, směr: Sedlčany,aut.st., kategorie: provoz, příjezd: 08:55:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 360,
+      "obeh": 5,
+      "vozidlo": 7208,
+      "zpozdeni": 11,
+      "zastavka": "U716Z1",
+      "lat": 49.94239,
+      "lon": 14.39138,
+      "smer": "Sedlčany,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:55:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 11,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_090549"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260617_220924_L342",
+    "document": "Dne 17.06.2026 měla linka 342 / 2 zpoždění 10 minut u zastávky U4416Z2 (směr Slaný,žel.st.) zpožděný příjezd 21:59. vozidlo: 7702, zpoždění: 10, zastávka: U4416Z2, lat: 50.18625, lon: 14.1507, směr: Slaný,žel.st., kategorie: provoz, příjezd: 21:59:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 342,
+      "obeh": 2,
+      "vozidlo": 7702,
+      "zpozdeni": 10,
+      "zastavka": "U4416Z2",
+      "lat": 50.18625,
+      "lon": 14.1507,
+      "smer": "Slaný,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:59:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_220924"
+    }
+  }
+]

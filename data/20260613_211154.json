@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260613_211154_L320",
+    "document": "Dne 13.06.2026 měla linka 320 / 2 zpoždění 29 minut u zastávky U1706Z2 (směr Praha,Smíchovské nádraží) zpožděný příjezd 20:40. vozidlo: 7961, zpoždění: 29, zastávka: U1706Z2, lat: 49.90524, lon: 14.33107, směr: Praha,Smíchovské nádraží, kategorie: provoz, příjezd: 20:40:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 320,
+      "obeh": 2,
+      "vozidlo": 7961,
+      "zpozdeni": 29,
+      "zastavka": "U1706Z2",
+      "lat": 49.90524,
+      "lon": 14.33107,
+      "smer": "Praha,Smíchovské nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:40:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 29,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_211154"
+    }
+  }
+]

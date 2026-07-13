@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260520_225112_L620",
+    "document": "Dne 20.05.2026 měla linka 620 / 19 zpoždění 13 minut u zastávky U2942Z2 (směr Koleč,zámek) zpožděný příjezd 22:36. vozidlo: 7327, zpoždění: 13, zastávka: U2942Z2, lat: 50.23273, lon: 14.25262, směr: Koleč,zámek, kategorie: provoz, příjezd: 22:36:00",
+    "metadata": {
+      "den": "20.05.2026",
+      "linka": 620,
+      "obeh": 19,
+      "vozidlo": 7327,
+      "zpozdeni": 13,
+      "zastavka": "U2942Z2",
+      "lat": 50.23273,
+      "lon": 14.25262,
+      "smer": "Koleč,zámek",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:36:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.05.2026?",
+      "timestamp": "20260520_225112"
+    }
+  }
+]

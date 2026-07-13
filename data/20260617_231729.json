@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260617_231729_L801",
+    "document": "Dne 17.06.2026 měla linka 801 / 1 zpoždění 17 minut u zastávky U9367Z2 (směr Kutná Hora,Žižkov,poliklinika) zpožděný příjezd 23:00. vozidlo: 1822, zpoždění: 17, zastávka: U9367Z2, lat: 49.96178, lon: 15.30005, směr: Kutná Hora,Žižkov,poliklinika, kategorie: provoz, příjezd: 23:00:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 801,
+      "obeh": 1,
+      "vozidlo": 1822,
+      "zpozdeni": 17,
+      "zastavka": "U9367Z2",
+      "lat": 49.96178,
+      "lon": 15.30005,
+      "smer": "Kutná Hora,Žižkov,poliklinika",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:00:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 17,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_231729"
+    }
+  }
+]

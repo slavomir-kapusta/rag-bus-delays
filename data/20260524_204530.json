@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_204530_L369",
+    "document": "Dne 24.05.2026 měla linka 369 / 73 zpoždění 10 minut u zastávky U1791Z1 (směr Štětí,záv.) zpožděný příjezd 20:34. vozidlo: 8272, zpoždění: 10, zastávka: U1791Z1, lat: 50.34318, lon: 14.48813, směr: Štětí,záv., kategorie: provoz, příjezd: 20:34:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 369,
+      "obeh": 73,
+      "vozidlo": 8272,
+      "zpozdeni": 10,
+      "zastavka": "U1791Z1",
+      "lat": 50.34318,
+      "lon": 14.48813,
+      "smer": "Štětí,záv.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:34:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_204530"
+    }
+  },
+  {
+    "id": "20260524_204530_L400",
+    "document": "Dne 24.05.2026 měla linka 400 / 56 zpoždění 11 minut u zastávky U6073Z1 (směr Nový Bor,aut.nádr.) zpožděný příjezd 20:34. vozidlo: 1091, zpoždění: 11, zastávka: U6073Z1, lat: 50.47567, lon: 14.47828, směr: Nový Bor,aut.nádr., kategorie: provoz, příjezd: 20:34:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 400,
+      "obeh": 56,
+      "vozidlo": 1091,
+      "zpozdeni": 11,
+      "zastavka": "U6073Z1",
+      "lat": 50.47567,
+      "lon": 14.47828,
+      "smer": "Nový Bor,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:34:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_204530"
+    }
+  },
+  {
+    "id": "20260524_204530_L300",
+    "document": "Dne 24.05.2026 měla linka 300 / 3 zpoždění 12 minut u zastávky U1918Z2 (směr Praha,Nádraží Veleslavín) zpožděný příjezd 20:32. vozidlo: 8996, zpoždění: 12, zastávka: U1918Z2, lat: 50.14113, lon: 14.06287, směr: Praha,Nádraží Veleslavín, kategorie: provoz, příjezd: 20:32:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 300,
+      "obeh": 3,
+      "vozidlo": 8996,
+      "zpozdeni": 12,
+      "zastavka": "U1918Z2",
+      "lat": 50.14113,
+      "lon": 14.06287,
+      "smer": "Praha,Nádraží Veleslavín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:32:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_204530"
+    }
+  }
+]

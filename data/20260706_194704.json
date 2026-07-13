@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_194704_L770",
+    "document": "Dne 06.07.2026 měla linka 770 / 26 zpoždění 10 minut u zastávky U4483Z3 (směr Benešov,Terminál) zpožděný příjezd 19:37. vozidlo: 7815, zpoždění: 10, zastávka: U4483Z3, lat: 49.78741, lon: 14.6832, směr: Benešov,Terminál, kategorie: provoz, příjezd: 19:37:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 770,
+      "obeh": 26,
+      "vozidlo": 7815,
+      "zpozdeni": 10,
+      "zastavka": "U4483Z3",
+      "lat": 49.78741,
+      "lon": 14.6832,
+      "smer": "Benešov,Terminál",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_194704"
+    }
+  },
+  {
+    "id": "20260706_194704_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 53 zpoždění 12 minut u zastávky U3316Z4 (směr Praha,Střížkov) zpožděný příjezd 19:32. vozidlo: 1087, zpoždění: 12, zastávka: U3316Z4, lat: 50.39042, lon: 14.46392, směr: Praha,Střížkov, kategorie: provoz, příjezd: 19:32:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 53,
+      "vozidlo": 1087,
+      "zpozdeni": 12,
+      "zastavka": "U3316Z4",
+      "lat": 50.39042,
+      "lon": 14.46392,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:32:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_194704"
+    }
+  }
+]

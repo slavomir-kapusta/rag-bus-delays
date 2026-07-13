@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_104625_L307",
+    "document": "Dne 06.07.2026 měla linka 307 / 6 zpoždění 10 minut u zastávky U1677Z2 (směr Praha,Zličín) zpožděný příjezd 10:30. vozidlo: 8952, zpoždění: 10, zastávka: U1677Z2, lat: 50.03183, lon: 14.22607, směr: Praha,Zličín, kategorie: provoz, příjezd: 10:30:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 307,
+      "obeh": 6,
+      "vozidlo": 8952,
+      "zpozdeni": 10,
+      "zastavka": "U1677Z2",
+      "lat": 50.03183,
+      "lon": 14.22607,
+      "smer": "Praha,Zličín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "10:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 10,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_104625"
+    }
+  },
+  {
+    "id": "20260706_104625_L385",
+    "document": "Dne 06.07.2026 měla linka 385 / 31 zpoždění 10 minut u zastávky U1371Z3 (směr Praha,Opatov) zpožděný příjezd 10:35. vozidlo: 1644, zpoždění: 10, zastávka: U1371Z3, lat: 50.0066, lon: 14.56389, směr: Praha,Opatov, kategorie: provoz, příjezd: 10:35:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 385,
+      "obeh": 31,
+      "vozidlo": 1644,
+      "zpozdeni": 10,
+      "zastavka": "U1371Z3",
+      "lat": 50.0066,
+      "lon": 14.56389,
+      "smer": "Praha,Opatov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "10:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 10,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_104625"
+    }
+  }
+]

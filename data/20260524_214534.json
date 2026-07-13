@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260524_214534_L400",
+    "document": "Dne 24.05.2026 měla linka 400 / 59 zpoždění 10 minut u zastávky U6073Z1 (směr Varnsdorf,aut.nádr.) zpožděný příjezd 21:34. vozidlo: 1083, zpoždění: 10, zastávka: U6073Z1, lat: 50.47485, lon: 14.47684, směr: Varnsdorf,aut.nádr., kategorie: provoz, příjezd: 21:34:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 400,
+      "obeh": 59,
+      "vozidlo": 1083,
+      "zpozdeni": 10,
+      "zastavka": "U6073Z1",
+      "lat": 50.47485,
+      "lon": 14.47684,
+      "smer": "Varnsdorf,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:34:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_214534"
+    }
+  },
+  {
+    "id": "20260524_214534_L380",
+    "document": "Dne 24.05.2026 měla linka 380 / 1 zpoždění 10 minut u zastávky U33Z4 (směr Praha,Vypich) zpožděný příjezd 21:35. vozidlo: 9982, zpoždění: 10, zastávka: U33Z4, lat: 50.0635, lon: 14.31556, směr: Praha,Vypich, kategorie: provoz, příjezd: 21:35:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 380,
+      "obeh": 1,
+      "vozidlo": 9982,
+      "zpozdeni": 10,
+      "zastavka": "U33Z4",
+      "lat": 50.0635,
+      "lon": 14.31556,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_214534"
+    }
+  },
+  {
+    "id": "20260524_214534_L400",
+    "document": "Dne 24.05.2026 měla linka 400 / 56 zpoždění 12 minut u zastávky U31360Z1 (směr Nový Bor,aut.nádr.) zpožděný příjezd 21:30. vozidlo: 1091, zpoždění: 12, zastávka: U31360Z1, lat: 50.76371, lon: 14.54665, směr: Nový Bor,aut.nádr., kategorie: provoz, příjezd: 21:30:00",
+    "metadata": {
+      "den": "24.05.2026",
+      "linka": 400,
+      "obeh": 56,
+      "vozidlo": 1091,
+      "zpozdeni": 12,
+      "zastavka": "U31360Z1",
+      "lat": 50.76371,
+      "lon": 14.54665,
+      "smer": "Nový Bor,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 24.05.2026?",
+      "timestamp": "20260524_214534"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_221517_L400",
+    "document": "Dne 06.07.2026 měla linka 400 / 59 zpoždění 18 minut u zastávky U31348Z1 (směr Varnsdorf,aut.nádr.) zpožděný příjezd 21:56. vozidlo: 1083, zpoždění: 18, zastávka: U31348Z1, lat: 50.58554, lon: 14.54971, směr: Varnsdorf,aut.nádr., kategorie: provoz, příjezd: 21:56:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 400,
+      "obeh": 59,
+      "vozidlo": 1083,
+      "zpozdeni": 18,
+      "zastavka": "U31348Z1",
+      "lat": 50.58554,
+      "lon": 14.54971,
+      "smer": "Varnsdorf,aut.nádr.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:56:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 18,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_221517"
+    }
+  },
+  {
+    "id": "20260706_221517_L202",
+    "document": "Dne 06.07.2026 měla linka 202 / 3 zpoždění 19 minut u zastávky U451Z1P (směr Čakovice) zpožděný příjezd 21:56. vozidlo: 2340, zpoždění: 19, zastávka: U451Z1P, lat: 50.15089, lon: 14.51458, směr: Čakovice, kategorie: provoz, příjezd: 21:56:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 202,
+      "obeh": 3,
+      "vozidlo": 2340,
+      "zpozdeni": 19,
+      "zastavka": "U451Z1P",
+      "lat": 50.15089,
+      "lon": 14.51458,
+      "smer": "Čakovice",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:56:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 19,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_221517"
+    }
+  },
+  {
+    "id": "20260706_221517_L136",
+    "document": "Dne 06.07.2026 měla linka 136 / 1 zpoždění 21 minut u zastávky U451Z1P (směr Sídliště Čakovice) zpožděný příjezd 21:54. vozidlo: 6962, zpoždění: 21, zastávka: U451Z1P, lat: 50.15093, lon: 14.51506, směr: Sídliště Čakovice, kategorie: provoz, příjezd: 21:54:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 136,
+      "obeh": 1,
+      "vozidlo": 6962,
+      "zpozdeni": 21,
+      "zastavka": "U451Z1P",
+      "lat": 50.15093,
+      "lon": 14.51506,
+      "smer": "Sídliště Čakovice",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:54:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 21,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_221517"
+    }
+  }
+]

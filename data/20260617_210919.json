@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260617_210919_L400",
+    "document": "Dne 17.06.2026 měla linka 400 / 53 zpoždění 13 minut u zastávky U3316Z4 (směr Praha,Střížkov) zpožděný příjezd 20:54. vozidlo: 1091, zpoždění: 13, zastávka: U3316Z4, lat: 50.3985, lon: 14.45572, směr: Praha,Střížkov, kategorie: provoz, příjezd: 20:54:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 400,
+      "obeh": 53,
+      "vozidlo": 1091,
+      "zpozdeni": 13,
+      "zastavka": "U3316Z4",
+      "lat": 50.3985,
+      "lon": 14.45572,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:54:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 13,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_210919"
+    }
+  }
+]

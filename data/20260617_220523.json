@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260617_220523_L400",
+    "document": "Dne 17.06.2026 měla linka 400 / 6 zpoždění 12 minut u zastávky U32152Z1 (směr Cvikov,aut.st.) zpožděný příjezd 21:51. vozidlo: 11628, zpoždění: 12, zastávka: U32152Z1, lat: 50.77593, lon: 14.62843, směr: Cvikov,aut.st., kategorie: provoz, příjezd: 21:51:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 400,
+      "obeh": 6,
+      "vozidlo": 11628,
+      "zpozdeni": 12,
+      "zastavka": "U32152Z1",
+      "lat": 50.77593,
+      "lon": 14.62843,
+      "smer": "Cvikov,aut.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:51:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_220523"
+    }
+  },
+  {
+    "id": "20260617_220523_L681",
+    "document": "Dne 17.06.2026 měla linka 681 / 61 zpoždění 12 minut u zastávky U5896Z2 (směr Kolín,nádraží) zpožděný příjezd 21:50. vozidlo: 1613, zpoždění: 12, zastávka: U5896Z2, lat: 50.02406, lon: 15.21348, směr: Kolín,nádraží, kategorie: provoz, příjezd: 21:50:00",
+    "metadata": {
+      "den": "17.06.2026",
+      "linka": 681,
+      "obeh": 61,
+      "vozidlo": 1613,
+      "zpozdeni": 12,
+      "zastavka": "U5896Z2",
+      "lat": 50.02406,
+      "lon": 15.21348,
+      "smer": "Kolín,nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:50:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 17.06.2026?",
+      "timestamp": "20260617_220523"
+    }
+  }
+]

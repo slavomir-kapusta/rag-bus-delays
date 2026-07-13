@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260616_204044_L651",
+    "document": "Dne 16.06.2026 měla linka 651 / 52 zpoždění 10 minut u zastávky U1557Z1 (směr Nespeky) zpožděný příjezd 20:29. vozidlo: 7824, zpoždění: 10, zastávka: U1557Z1, lat: 49.88427, lon: 14.69195, směr: Nespeky, kategorie: provoz, příjezd: 20:29:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 651,
+      "obeh": 52,
+      "vozidlo": 7824,
+      "zpozdeni": 10,
+      "zastavka": "U1557Z1",
+      "lat": 49.88427,
+      "lon": 14.69195,
+      "smer": "Nespeky",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:29:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_204044"
+    }
+  }
+]

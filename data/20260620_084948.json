@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260620_084948_L752",
+    "document": "Dne 20.06.2026 měla linka 752 / 35 zpoždění 11 minut u zastávky U4483Z1 (směr Jílové u Prahy,Náměstí) zpožděný příjezd 08:37. vozidlo: 7833, zpoždění: 11, zastávka: U4483Z1, lat: 49.79135, lon: 14.66897, směr: Jílové u Prahy,Náměstí, kategorie: provoz, příjezd: 08:37:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 752,
+      "obeh": 35,
+      "vozidlo": 7833,
+      "zpozdeni": 11,
+      "zastavka": "U4483Z1",
+      "lat": 49.79135,
+      "lon": 14.66897,
+      "smer": "Jílové u Prahy,Náměstí",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:37:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 11,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_084948"
+    }
+  },
+  {
+    "id": "20260620_084948_L402",
+    "document": "Dne 20.06.2026 měla linka 402 / 33 zpoždění 11 minut u zastávky U7317Z1 (směr Praha,Roztyly) zpožděný příjezd 08:38. vozidlo: 7622, zpoždění: 11, zastávka: U7317Z1, lat: 49.72419, lon: 15.05579, směr: Praha,Roztyly, kategorie: provoz, příjezd: 08:38:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 402,
+      "obeh": 33,
+      "vozidlo": 7622,
+      "zpozdeni": 11,
+      "zastavka": "U7317Z1",
+      "lat": 49.72419,
+      "lon": 15.05579,
+      "smer": "Praha,Roztyly",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:38:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 11,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_084948"
+    }
+  }
+]

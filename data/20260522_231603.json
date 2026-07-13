@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260522_231603_L313",
+    "document": "Dne 22.05.2026 měla linka 313 / 83 zpoždění 10 minut u zastávky U1618Z1 (směr Černošice,žel.zast.) zpožděný příjezd 23:04. vozidlo: 9776, zpoždění: 10, zastávka: U1618Z1, lat: 49.95684, lon: 14.30423, směr: Černošice,žel.zast., kategorie: provoz, příjezd: 23:04:00",
+    "metadata": {
+      "den": "22.05.2026",
+      "linka": 313,
+      "obeh": 83,
+      "vozidlo": 9776,
+      "zpozdeni": 10,
+      "zastavka": "U1618Z1",
+      "lat": 49.95684,
+      "lon": 14.30423,
+      "smer": "Černošice,žel.zast.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:04:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 22.05.2026?",
+      "timestamp": "20260522_231603"
+    }
+  },
+  {
+    "id": "20260522_231603_L639",
+    "document": "Dne 22.05.2026 měla linka 639 / 13 zpoždění 10 minut u zastávky U9849Z1 (směr Hostomice,nám.) zpožděný příjezd 23:06. vozidlo: 9546, zpoždění: 10, zastávka: U9849Z1, lat: 49.85208, lon: 14.03459, směr: Hostomice,nám., kategorie: provoz, příjezd: 23:06:00",
+    "metadata": {
+      "den": "22.05.2026",
+      "linka": 639,
+      "obeh": 13,
+      "vozidlo": 9546,
+      "zpozdeni": 10,
+      "zastavka": "U9849Z1",
+      "lat": 49.85208,
+      "lon": 14.03459,
+      "smer": "Hostomice,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "23:06:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 22.05.2026?",
+      "timestamp": "20260522_231603"
+    }
+  }
+]

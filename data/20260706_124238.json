@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260706_124238_L345",
+    "document": "Dne 06.07.2026 měla linka 345 / 87 zpoždění 10 minut u zastávky U6213Z2 (směr Praha,Černý Most) zpožděný příjezd 12:30. vozidlo: 8671, zpoždění: 10, zastávka: U6213Z2, lat: 50.46221, lon: 14.9324, směr: Praha,Černý Most, kategorie: provoz, příjezd: 12:30:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 345,
+      "obeh": 87,
+      "vozidlo": 8671,
+      "zpozdeni": 10,
+      "zastavka": "U6213Z2",
+      "lat": 50.46221,
+      "lon": 14.9324,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "12:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 10,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_124238"
+    }
+  },
+  {
+    "id": "20260706_124238_L387",
+    "document": "Dne 06.07.2026 měla linka 387 / 1 zpoždění 12 minut u zastávky U2008Z2 (směr Praha,Háje) zpožděný příjezd 12:30. vozidlo: 9368, zpoždění: 12, zastávka: U2008Z2, lat: 49.98961, lon: 14.7404, směr: Praha,Háje, kategorie: provoz, příjezd: 12:30:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 387,
+      "obeh": 1,
+      "vozidlo": 9368,
+      "zpozdeni": 12,
+      "zastavka": "U2008Z2",
+      "lat": 49.98961,
+      "lon": 14.7404,
+      "smer": "Praha,Háje",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "12:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 12,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_124238"
+    }
+  }
+]

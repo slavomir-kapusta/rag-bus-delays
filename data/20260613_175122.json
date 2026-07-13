@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260613_175122_L380",
+    "document": "Dne 13.06.2026 měla linka 380 / 3 zpoždění 15 minut u zastávky U394Z4 (směr Praha,Vypich) zpožděný příjezd 17:36. vozidlo: 9981, zpoždění: 15, zastávka: U394Z4, lat: 50.06956, lon: 14.33514, směr: Praha,Vypich, kategorie: provoz, příjezd: 17:36:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 380,
+      "obeh": 3,
+      "vozidlo": 9981,
+      "zpozdeni": 15,
+      "zastavka": "U394Z4",
+      "lat": 50.06956,
+      "lon": 14.33514,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "17:36:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 15,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_175122"
+    }
+  },
+  {
+    "id": "20260613_175122_L315",
+    "document": "Dne 13.06.2026 měla linka 315 / 61 zpoždění 10 minut u zastávky U2987Z8 (směr Praha,Černý Most) zpožděný příjezd 17:36. vozidlo: 8672, zpoždění: 10, zastávka: U2987Z8, lat: 50.41901, lon: 14.91711, směr: Praha,Černý Most, kategorie: provoz, příjezd: 17:36:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 315,
+      "obeh": 61,
+      "vozidlo": 8672,
+      "zpozdeni": 10,
+      "zastavka": "U2987Z8",
+      "lat": 50.41901,
+      "lon": 14.91711,
+      "smer": "Praha,Černý Most",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "17:36:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 10,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_175122"
+    }
+  },
+  {
+    "id": "20260613_175122_L380",
+    "document": "Dne 13.06.2026 měla linka 380 / 1 zpoždění 18 minut u zastávky U11012Z1 (směr Praha,Vypich) zpožděný příjezd 17:32. vozidlo: 9972, zpoždění: 18, zastávka: U11012Z1, lat: 49.93593, lon: 14.0202, směr: Praha,Vypich, kategorie: provoz, příjezd: 17:32:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 380,
+      "obeh": 1,
+      "vozidlo": 9972,
+      "zpozdeni": 18,
+      "zastavka": "U11012Z1",
+      "lat": 49.93593,
+      "lon": 14.0202,
+      "smer": "Praha,Vypich",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "17:32:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 18,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_175122"
+    }
+  }
+]

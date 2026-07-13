@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260620_085748_L844",
+    "document": "Dne 20.06.2026 měla linka 844 / 9 zpoždění 10 minut u zastávky U7622Z1 (směr Snět) zpožděný příjezd 08:46. vozidlo: 7889, zpoždění: 10, zastávka: U7622Z1, lat: 49.69161, lon: 15.02335, směr: Snět, kategorie: provoz, příjezd: 08:46:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 844,
+      "obeh": 9,
+      "vozidlo": 7889,
+      "zpozdeni": 10,
+      "zastavka": "U7622Z1",
+      "lat": 49.69161,
+      "lon": 15.02335,
+      "smer": "Snět",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:46:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 10,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_085748"
+    }
+  },
+  {
+    "id": "20260620_085748_L752",
+    "document": "Dne 20.06.2026 měla linka 752 / 35 zpoždění 10 minut u zastávky U4489Z1 (směr Jílové u Prahy,Náměstí) zpožděný příjezd 08:47. vozidlo: 7833, zpoždění: 10, zastávka: U4489Z1, lat: 49.82361, lon: 14.62052, směr: Jílové u Prahy,Náměstí, kategorie: provoz, příjezd: 08:47:00",
+    "metadata": {
+      "den": "20.06.2026",
+      "linka": 752,
+      "obeh": 35,
+      "vozidlo": 7833,
+      "zpozdeni": 10,
+      "zastavka": "U4489Z1",
+      "lat": 49.82361,
+      "lon": 14.62052,
+      "smer": "Jílové u Prahy,Náměstí",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "08:47:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 10,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.06.2026?",
+      "timestamp": "20260620_085748"
+    }
+  }
+]

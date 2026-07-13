@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260520_224712_L681",
+    "document": "Dne 20.05.2026 měla linka 681 / 61 zpoždění 11 minut u zastávky U2156Z2 (směr Uhlířské Janovice,nám.) zpožděný příjezd 22:35. vozidlo: 1613, zpoždění: 11, zastávka: U2156Z2, lat: 49.95093, lon: 15.16595, směr: Uhlířské Janovice,nám., kategorie: provoz, příjezd: 22:35:00",
+    "metadata": {
+      "den": "20.05.2026",
+      "linka": 681,
+      "obeh": 61,
+      "vozidlo": 1613,
+      "zpozdeni": 11,
+      "zastavka": "U2156Z2",
+      "lat": 49.95093,
+      "lon": 15.16595,
+      "smer": "Uhlířské Janovice,nám.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.05.2026?",
+      "timestamp": "20260520_224712"
+    }
+  },
+  {
+    "id": "20260520_224712_L381",
+    "document": "Dne 20.05.2026 měla linka 381 / 9 zpoždění 11 minut u zastávky U2156Z2 (směr Praha,Háje) zpožděný příjezd 22:35. vozidlo: 1686, zpoždění: 11, zastávka: U2156Z2, lat: 49.95284, lon: 15.16343, směr: Praha,Háje, kategorie: provoz, příjezd: 22:35:00",
+    "metadata": {
+      "den": "20.05.2026",
+      "linka": 381,
+      "obeh": 9,
+      "vozidlo": 1686,
+      "zpozdeni": 11,
+      "zastavka": "U2156Z2",
+      "lat": 49.95284,
+      "lon": 15.16343,
+      "smer": "Praha,Háje",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "22:35:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 20.05.2026?",
+      "timestamp": "20260520_224712"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260613_215559_L320",
+    "document": "Dne 13.06.2026 měla linka 320 / 7 zpoždění 12 minut u zastávky U1705Z2 (směr Praha,Smíchovské nádraží) zpožděný příjezd 21:42. vozidlo: 7957, zpoždění: 12, zastávka: U1705Z2, lat: 49.90622, lon: 14.33234, směr: Praha,Smíchovské nádraží, kategorie: provoz, příjezd: 21:42:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 320,
+      "obeh": 7,
+      "vozidlo": 7957,
+      "zpozdeni": 12,
+      "zastavka": "U1705Z2",
+      "lat": 49.90622,
+      "lon": 14.33234,
+      "smer": "Praha,Smíchovské nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_215559"
+    }
+  },
+  {
+    "id": "20260613_215559_L395",
+    "document": "Dne 13.06.2026 měla linka 395 / 42 zpoždění 25 minut u zastávky U9747Z2 (směr Praha,Smíchovské nádraží) zpožděný příjezd 21:30. vozidlo: 9873, zpoždění: 25, zastávka: U9747Z2, lat: 49.6753, lon: 13.98452, směr: Praha,Smíchovské nádraží, kategorie: provoz, příjezd: 21:30:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 395,
+      "obeh": 42,
+      "vozidlo": 9873,
+      "zpozdeni": 25,
+      "zastavka": "U9747Z2",
+      "lat": 49.6753,
+      "lon": 13.98452,
+      "smer": "Praha,Smíchovské nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:30:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 25,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_215559"
+    }
+  },
+  {
+    "id": "20260613_215559_L395",
+    "document": "Dne 13.06.2026 měla linka 395 / 39 zpoždění 12 minut u zastávky U9747Z1 (směr Příbram,Březové Hory) zpožděný příjezd 21:42. vozidlo: 9857, zpoždění: 12, zastávka: U9747Z1, lat: 49.67784, lon: 13.98447, směr: Příbram,Březové Hory, kategorie: provoz, příjezd: 21:42:00",
+    "metadata": {
+      "den": "13.06.2026",
+      "linka": 395,
+      "obeh": 39,
+      "vozidlo": 9857,
+      "zpozdeni": 12,
+      "zastavka": "U9747Z1",
+      "lat": 49.67784,
+      "lon": 13.98447,
+      "smer": "Příbram,Březové Hory",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:42:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 12,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 13.06.2026?",
+      "timestamp": "20260613_215559"
+    }
+  }
+]

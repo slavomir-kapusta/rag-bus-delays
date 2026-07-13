@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260616_201242_L194",
+    "document": "Dne 16.06.2026 měla linka 194 / 3 zpoždění 16 minut u zastávky U360Z9P (směr Florenc) zpožděný příjezd 19:56. vozidlo: 1910, zpoždění: 16, zastávka: U360Z9P, lat: 50.08882, lon: 14.41526, směr: Florenc, kategorie: provoz, příjezd: 19:56:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 194,
+      "obeh": 3,
+      "vozidlo": 1910,
+      "zpozdeni": 16,
+      "zastavka": "U360Z9P",
+      "lat": 50.08882,
+      "lon": 14.41526,
+      "smer": "Florenc",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:56:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 16,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_201242"
+    }
+  },
+  {
+    "id": "20260616_201242_L400",
+    "document": "Dne 16.06.2026 měla linka 400 / 51 zpoždění 17 minut u zastávky U6060Z2 (směr Praha,Střížkov) zpožděný příjezd 19:54. vozidlo: 1091, zpoždění: 17, zastávka: U6060Z2, lat: 50.41143, lon: 14.45764, směr: Praha,Střížkov, kategorie: provoz, příjezd: 19:54:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 400,
+      "obeh": 51,
+      "vozidlo": 1091,
+      "zpozdeni": 17,
+      "zastavka": "U6060Z2",
+      "lat": 50.41143,
+      "lon": 14.45764,
+      "smer": "Praha,Střížkov",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:54:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 17,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_201242"
+    }
+  },
+  {
+    "id": "20260616_201242_L400",
+    "document": "Dne 16.06.2026 měla linka 400 / 58 zpoždění 11 minut u zastávky U31350Z1 (směr Rumburk,žel.st.) zpožděný příjezd 20:01. vozidlo: 1084, zpoždění: 11, zastávka: U31350Z1, lat: 50.60373, lon: 14.56785, směr: Rumburk,žel.st., kategorie: provoz, příjezd: 20:01:00",
+    "metadata": {
+      "den": "16.06.2026",
+      "linka": 400,
+      "obeh": 58,
+      "vozidlo": 1084,
+      "zpozdeni": 11,
+      "zastavka": "U31350Z1",
+      "lat": 50.60373,
+      "lon": 14.56785,
+      "smer": "Rumburk,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:01:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 11,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 16.06.2026?",
+      "timestamp": "20260616_201242"
+    }
+  }
+]

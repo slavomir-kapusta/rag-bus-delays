@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_201106_L389",
+    "document": "Dne 06.07.2026 měla linka 389 / 10 zpoždění 10 minut u zastávky U9229Z2 (směr Chomutov,žel.st.) zpožděný příjezd 19:57. vozidlo: 7753, zpoždění: 10, zastávka: U9229Z2, lat: 50.27306, lon: 13.97979, směr: Chomutov,žel.st., kategorie: provoz, příjezd: 19:57:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 389,
+      "obeh": 10,
+      "vozidlo": 7753,
+      "zpozdeni": 10,
+      "zastavka": "U9229Z2",
+      "lat": 50.27306,
+      "lon": 13.97979,
+      "smer": "Chomutov,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "19:57:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 10,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_201106"
+    }
+  }
+]

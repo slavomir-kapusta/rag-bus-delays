@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20260603_215044_L536",
+    "document": "Dne 03.06.2026 měla linka 536 / 26 zpoždění 36 minut u zastávky U6018Z1 (směr Kolín,nádraží) zpožděný příjezd 21:12. vozidlo: 7593, zpoždění: 36, zastávka: U6018Z1, lat: 50.02418, lon: 15.21342, směr: Kolín,nádraží, kategorie: provoz, příjezd: 21:12:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 536,
+      "obeh": 26,
+      "vozidlo": 7593,
+      "zpozdeni": 36,
+      "zastavka": "U6018Z1",
+      "lat": 50.02418,
+      "lon": 15.21342,
+      "smer": "Kolín,nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "21:12:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 36,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_215044"
+    }
+  },
+  {
+    "id": "20260603_215044_L550",
+    "document": "Dne 03.06.2026 měla linka 550 / 78 zpoždění 90 minut u zastávky U6757Z1 (směr Vlašim,žel.st.) zpožděný příjezd 20:18. vozidlo: 7894, zpoždění: 90, zastávka: U6757Z1, lat: 49.70082, lon: 14.89719, směr: Vlašim,žel.st., kategorie: provoz, příjezd: 20:18:00",
+    "metadata": {
+      "den": "03.06.2026",
+      "linka": 550,
+      "obeh": 78,
+      "vozidlo": 7894,
+      "zpozdeni": 90,
+      "zastavka": "U6757Z1",
+      "lat": 49.70082,
+      "lon": 14.89719,
+      "smer": "Vlašim,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:18:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 90,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 03.06.2026?",
+      "timestamp": "20260603_215044"
+    }
+  }
+]

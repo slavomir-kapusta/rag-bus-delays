@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260706_211112_L626",
+    "document": "Dne 06.07.2026 měla linka 626 / 10 zpoždění 20 minut u zastávky U3094Z2 (směr Kladno,autobusové nádraží) zpožděný příjezd 20:49. vozidlo: 7307, zpoždění: 20, zastávka: U3094Z2, lat: 50.14515, lon: 14.10709, směr: Kladno,autobusové nádraží, kategorie: provoz, příjezd: 20:49:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 626,
+      "obeh": 10,
+      "vozidlo": 7307,
+      "zpozdeni": 20,
+      "zastavka": "U3094Z2",
+      "lat": 50.14515,
+      "lon": 14.10709,
+      "smer": "Kladno,autobusové nádraží",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "20:49:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 0,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 20,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_211112"
+    }
+  }
+]

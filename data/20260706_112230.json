@@ -1,0 +1,80 @@
+[
+  {
+    "id": "20260706_112230_L324",
+    "document": "Dne 06.07.2026 měla linka 324 / 5 zpoždění 11 minut u zastávky U4315Z2 (směr Praha,Zličín) zpožděný příjezd 11:10. vozidlo: 8949, zpoždění: 11, zastávka: U4315Z2, lat: 50.13874, lon: 14.1401, směr: Praha,Zličín, kategorie: provoz, příjezd: 11:10:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 324,
+      "obeh": 5,
+      "vozidlo": 8949,
+      "zpozdeni": 11,
+      "zastavka": "U4315Z2",
+      "lat": 50.13874,
+      "lon": 14.1401,
+      "smer": "Praha,Zličín",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:10:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 11,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_112230"
+    }
+  },
+  {
+    "id": "20260706_112230_L300",
+    "document": "Dne 06.07.2026 měla linka 300 / 3 zpoždění 13 minut u zastávky U3094Z1 (směr Libušín,náměstí) zpožděný příjezd 11:08. vozidlo: 8996, zpoždění: 13, zastávka: U3094Z1, lat: 50.14531, lon: 14.09536, směr: Libušín,náměstí, kategorie: provoz, příjezd: 11:08:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 300,
+      "obeh": 3,
+      "vozidlo": 8996,
+      "zpozdeni": 13,
+      "zastavka": "U3094Z1",
+      "lat": 50.14531,
+      "lon": 14.09536,
+      "smer": "Libušín,náměstí",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:08:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 13,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_112230"
+    }
+  },
+  {
+    "id": "20260706_112230_L695",
+    "document": "Dne 06.07.2026 měla linka 695 / 2 zpoždění 10 minut u zastávky U3349Z2 (směr Mšeno,žel.st.) zpožděný příjezd 11:11. vozidlo: 1362, zpoždění: 10, zastávka: U3349Z2, lat: 50.37713, lon: 14.52555, směr: Mšeno,žel.st., kategorie: provoz, příjezd: 11:11:00",
+    "metadata": {
+      "den": "06.07.2026",
+      "linka": 695,
+      "obeh": 2,
+      "vozidlo": 1362,
+      "zpozdeni": 10,
+      "zastavka": "U3349Z2",
+      "lat": 50.37713,
+      "lon": 14.52555,
+      "smer": "Mšeno,žel.st.",
+      "kategorie": "provoz",
+      "pricina": "--- ",
+      "prijezd": "11:11:00",
+      "zpozdeni_00_06": 0,
+      "zpozdeni_06_09": 0,
+      "zpozdeni_09_12": 10,
+      "zpozdeni_12_15": 0,
+      "zpozdeni_15_18": 0,
+      "zpozdeni_18_24": 0,
+      "query": "Vytvoř seznam všech autobusových linek, které měly zpoždění delší než 10 minut dne 06.07.2026?",
+      "timestamp": "20260706_112230"
+    }
+  }
+]
