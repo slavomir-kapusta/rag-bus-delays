@@ -1,0 +1,22 @@
+ignore/
+delay/.venv/
+delay/data/
+delay/ignore/
+delay/chroma_db/
+delay/chroma_db_02mar/
+!delay/data/15febAll.json
+!delay/data/20260303_172200.json
+delay/retrieve/
+*.docx
+*.tmp
+*.wbk
+# Python Environment
+venv/
+__pycache__/git status
+
+# Local Data and Databases
+data/
+chroma_db/
+
+# Environment variables / Secrets
+.env

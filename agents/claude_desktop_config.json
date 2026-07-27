@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "golemio-delays": {
+      "command": "D:\\AI\\aJizdniVykony\\delay\\venv\\Scripts\\python.exe",
+      "args": ["D:\\AI\\aJizdniVykony\\delay\\agents\\mcp_server.py"],
+      "env": {
+        "GOLEMIO_API_KLIC": "your_api_key_here"
+      }
+    }
+  }
+}

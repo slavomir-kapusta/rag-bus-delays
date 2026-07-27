@@ -1,0 +1,49 @@
+oordinated via Zeebe process engine (delay-monitor-process.bpmn).
+
+                              ┌────────────────────────┐
+                              │    Camunda 8 Engine    │
+                              │ (Zeebe / c8run:26500)  │
+                              └───────────┬────────────┘
+                                          │
+       ┌──────────────────┬───────────────┼───────────────┬──────────────────┐
+       ▼                  ▼               ▼               ▼                  ▼
+┌───────────────┐  ┌──────────────┐  ┌───────────┐  ┌──────────────┐  ┌───────────────┐
+│ load-history  │  │ fetch-golemio│  │  DMN Rule │  │    filter-   │  │  export-data  │
+│    Worker     │  │  -data Worker│  │ (Camunda) │  │duplicates Wkr│  │    Worker     │
+└───────┬───────┘  └──────┬───────┘  └───────────┘  └──────┬───────┘  └───────┬───────┘
+        │                 │                                │                  │
+        ▼                 ▼                                ▼                  ▼
+ ┌─────────────┐   ┌─────────────┐                  ┌─────────────┐   ┌─────────────┐
+ │ Read data/  │   │ Golemio API │                  │ Sets Var    │   │ Write CSV & │
+ │ JSON history│   │ REST Query  │                  │hasNewDelays │   │ JSON files  │
+ └─────────────┘   └─────────────┘
+ 
+
+D:\AI\aJizdniVykony\delay\
+│
+├── .git/                          # Git repository metadata
+├── venv/                          # Python virtual environment
+├── data/                          # Automatically generated JSON/CSV exports
+│
+├── golemioCsv.py                  # Legacy standalone script (monolithic execution)
+├── delay-monitor-process.bpmn     # Camunda 8 BPMN process diagram
+├── time-window-rules.dmn          # Camunda 8 DMN decision table
+├── run_all_workers.py             # Utility to launch all Zeebe workers concurrently
+├── README.md                      # Project documentation
+│
+├── workers/                       # Camunda 8 Zeebe Job Workers
+│   ├── __init__.py
+│   ├── worker_load_history.py     # Worker for task: load-history
+│   ├── worker_fetch_golemio.py    # Worker for task: fetch-golemio-data
+│   ├── worker_filter_duplicates.py# Worker for task: filter-duplicates
+│   └── worker_export_data.py      # Worker for task: export-data
+│
+├── agents/                        # AI Agents & Orchestration
+│   ├── __init__.py
+│   ├── delay_analyzer_agent.py    # LLM Agent: Root-cause delay analysis
+│   ├── mcp_server.py              # Model Context Protocol (MCP) server
+│   └── worker_agent_orchestrator.py # Camunda Worker invoking AI Agents
+│
+└── utils/                         # Shared utilities
+    ├── __init__.py
+    └── golemio_helpers.py         # Shared API formatting and date functions
